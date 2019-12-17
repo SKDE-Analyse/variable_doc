@@ -1,0 +1,14 @@
+---
+title: "Dokumentasjon variabler NPR"
+author: "SKDE"
+date: '`r Sys.Date()`'
+documentclass: book
+description: Diverse dokumentasjon om variabler fra NPR
+papersize: A4
+site: bookdown::bookdown_site
+favicon: favicon.ico
+---
+
+# {-}
+
+Dette er en samling dokumentasjon om variabler fra NPR.

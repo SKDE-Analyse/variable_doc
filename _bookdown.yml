@@ -1,0 +1,4 @@
+output_dir: "docs"
+delete_merged_file: TRUE
+book_filename: "variable_doc"
+

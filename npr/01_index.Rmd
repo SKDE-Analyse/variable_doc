@@ -1,5 +1,0 @@
-# (PART) NPR {-}
-
-# Introduksjon
-
-Dokumentasjon om variabler mottatt av NPR eller utledet av variabler mottatt av NPR.

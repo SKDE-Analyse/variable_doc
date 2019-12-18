@@ -1,0 +1,28 @@
+
+## NCSPn
+
+| | |
+|----|----|
+| Label    | tekst her (NPR) |
+| Type     | Integer |
+| Length   | 8    |
+| Format   | bohf |
+| Kilde    | NPR  |
+
+Finnes i følgende filer
+
+- skde19.t19_magnus_avd_2014
+- skde19.t19_magnus_avd_2015
+- skde19.t19_magnus_avd_2016
+- skde19.t19_magnus_avd_2017
+- skde19.t19_magnus_avd_2018
+- skde19.t19_magnus_sho_2014
+- skde19.t19_magnus_sho_2015
+- skde19.t19_magnus_sho_2016
+- skde19.t19_magnus_sho_2017
+- skde19.t19_magnus_sho_2018
+
+### Kommentarer
+
+Denne variablen (NCSPn) er ...
+

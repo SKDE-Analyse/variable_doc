@@ -1,0 +1,15 @@
+
+## bohf
+
+| | |
+|----|----|
+| Label    | tekst her (NPR) |
+| Type     | Integer |
+| Length   | 8    |
+| Format   | bohf |
+| Kilde    | NPR  |
+
+### Kommentarer
+
+Denne variablen (bohf) er ...
+

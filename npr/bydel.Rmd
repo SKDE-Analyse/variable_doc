@@ -1,5 +1,5 @@
 
-## bydel
+# bydel
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   | bohf |
 | Kilde    | NPR  |
 
-### Kommentarer
+## Kommentarer
 
 Denne variablen (bydel) er ...
 

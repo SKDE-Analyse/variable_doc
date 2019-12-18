@@ -1,5 +1,5 @@
 
-## boRHF
+# boRHF
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   | bohf |
 | Kilde    | NPR  |
 
-### Kommentarer
+## Kommentarer
 
 Denne variablen (boRHF) er ...
 

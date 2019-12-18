@@ -1,0 +1,15 @@
+
+# dodDato_DSF_190619
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 10    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PERSON_190619_UTL_FIL
+

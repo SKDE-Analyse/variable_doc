@@ -1,0 +1,15 @@
+
+# tiltakStartDato
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 10    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PROSEDYREDATO1418_UTL_FIL
+

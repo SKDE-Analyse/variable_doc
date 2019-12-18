@@ -1,0 +1,15 @@
+
+# fylke
+
+| | |
+|----|----|
+| Label    | Fylke (pasientens bosted) (SKDE) |
+| Type     | Integer |
+| Length   | 4    |
+| Format   | FYLKE |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+SKDE19.T19_EXTRA_AVTSPES_2014, SKDE19.T19_EXTRA_AVTSPES_2015, SKDE19.T19_EXTRA_AVTSPES_2016, SKDE19.T19_EXTRA_AVTSPES_2017, SKDE19.T19_EXTRA_AVTSPES_2018, SKDE19.T19_REHAB_2014_18
+

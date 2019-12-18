@@ -73,7 +73,7 @@ for (variable in unique(data$NAME)) {
 ", file_list, "
 ")
 
-  file_var <-file(paste0("npr/", variable, ".Rmd"))
+  file_var <-file(paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd"))
   writeLines(text, file_var)
   close(file_var)
   

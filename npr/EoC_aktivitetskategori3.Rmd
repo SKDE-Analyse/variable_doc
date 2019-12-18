@@ -1,0 +1,15 @@
+
+# EoC_aktivitetskategori3
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | Integer |
+| Length   | 8    |
+| Format   | AKTIVITETSKATEGORI3F |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+SKDE19.T19_REHAB_2014_18
+

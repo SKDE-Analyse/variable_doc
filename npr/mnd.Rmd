@@ -1,0 +1,15 @@
+
+# mnd
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | Integer |
+| Length   | 8    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PAKKEFORLOP1518_UTL_FIL
+

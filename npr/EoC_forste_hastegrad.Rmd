@@ -1,0 +1,15 @@
+
+# EoC_forste_hastegrad
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | Integer |
+| Length   | 8    |
+| Format   | HASTEGRAD |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+SKDE19.T19_REHAB_2014_18
+

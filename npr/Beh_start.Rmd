@@ -1,0 +1,15 @@
+
+# Beh_start
+
+| | |
+|----|----|
+| Label    | Beh. start |
+| Type     | String |
+| Length   | 10    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PAKKEFORLOP1518_UTL_FIL
+

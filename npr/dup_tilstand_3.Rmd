@@ -1,0 +1,15 @@
+
+# dup_tilstand_3
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 5    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_AVTSPESSOM1418_UTL_FIL, NPR19.M19_AVTSPESSOM2014_UTL_FIL, NPR19.M19_AVTSPESSOM2015_UTL_FIL, NPR19.M19_AVTSPESSOM2016_UTL_FIL, NPR19.M19_AVTSPESSOM2017_UTL_FIL, NPR19.M19_AVTSPESSOM2018_UTL_FIL
+

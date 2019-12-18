@@ -1,0 +1,15 @@
+
+# Kodeverk
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 1    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PROSEDYREDATO1418_UTL_FIL
+

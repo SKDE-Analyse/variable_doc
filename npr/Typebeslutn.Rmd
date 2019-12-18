@@ -1,0 +1,15 @@
+
+# Typebeslutn
+
+| | |
+|----|----|
+| Label    | Type beslutn. |
+| Type     | String |
+| Length   | 1    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PAKKEFORLOP1518_UTL_FIL
+

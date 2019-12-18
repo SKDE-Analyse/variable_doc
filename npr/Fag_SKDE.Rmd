@@ -1,0 +1,15 @@
+
+# fag_skde
+
+| | |
+|----|----|
+| Label    | Fagfelt for avtalespesialisen - harmonisert 2014-2017 (SKDE) |
+| Type     | Integer |
+| Length   | 8    |
+| Format   | FAG_SKDE |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+SKDE19.T19_MAGNUS_AVTSPES_2014, SKDE19.T19_MAGNUS_AVTSPES_2015, SKDE19.T19_MAGNUS_AVTSPES_2016, SKDE19.T19_MAGNUS_AVTSPES_2017, SKDE19.T19_MAGNUS_AVTSPES_2018
+

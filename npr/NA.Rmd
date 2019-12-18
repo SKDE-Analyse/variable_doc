@@ -1,0 +1,15 @@
+
+# Pakkeforl<f8>p
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 49    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PAKKEFORLOP1518_UTL_FIL
+

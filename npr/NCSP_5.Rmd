@@ -1,0 +1,15 @@
+
+# ncsp_5
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 5, 6    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_DIALYSE1618_UTL_FIL, NPR19.M19_LEGEMIDLER1418_UTL_FIL
+

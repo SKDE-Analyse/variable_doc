@@ -1,0 +1,15 @@
+
+# Fagenhet
+
+| | |
+|----|----|
+| Label    |  |
+| Type     | String |
+| Length   | 69    |
+| Format   |  |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+NPR19.M19_PAKKEFORLOP1518_UTL_FIL
+

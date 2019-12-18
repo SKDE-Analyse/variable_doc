@@ -7,3 +7,5 @@ bookdown::gitbook:
 bookdown::epub_book:
   dev: svglite
   stylesheet: css/style.css
+bookdown::pdf_book:
+  dev: "cairo_pdf"

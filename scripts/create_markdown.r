@@ -5,7 +5,76 @@ data <- read.table('scripts/npr.csv', header = TRUE,  sep = ';',  stringsAsFacto
 # Loop over unique variables
 
 for (variable in unique(data$NAME)) {
-  print(variable)
+
   only_value <- dplyr::filter(data, NAME == variable)
-  print(only_value)
+  
+  # List of files containing this variable
+  file_list <- ""
+  for (i in seq_along(only_value$LIBNAME)) {
+    file_list <- paste0(file_list, only_value$LIBNAME[i], ".", only_value$MEMNAME[i])
+    if (i != length(only_value$LIBNAME)) {
+      file_list <- paste0(file_list, ", ")
+    }
+  }
+  
+  var_format <- ""
+  k <- 0
+  for (i in unique(only_value$FORMAT)) {
+    var_format <- paste0(var_format, i)
+    k <- k + 1
+    if (k != length(unique(only_value$FORMAT))) {
+      var_format <- paste0(var_format, ", ")
+    }
+  }
+
+  var_length <- ""
+  k <- 0
+  for (i in unique(only_value$LENGTH)) {
+    var_length <- paste0(var_length, i)
+    k <- k + 1
+    if (k != length(unique(only_value$LENGTH))) {
+      var_length <- paste0(var_length, ", ")
+    }
+  }
+
+  var_label <- ""
+  k <- 0
+  for (i in unique(only_value$LABEL)) {
+    var_label <- paste0(var_label, i)
+    k <- k + 1
+    if (k != length(unique(only_value$LABEL))) {
+      var_label <- paste0(var_label, ", ")
+    }
+  }
+  
+  var_type <- ""
+  k <- 0
+  for (i in unique(only_value$TYPE)) {
+    var_type <- paste0(var_type, i)
+    k <- k + 1
+    if (k != length(unique(only_value$TYPE))) {
+      var_type <- paste0(var_type, ", ")
+    }
+  }
+  
+  text <- paste0("
+# ", variable, "
+
+| | |
+|----|----|
+| Label    | ", var_label, " |
+| Type     | ", var_type, " |
+| Length   | ", var_length, "    |
+| Format   | ", var_format, " |
+| Kilde    |   |
+
+## Finnes i følgende filer
+
+", file_list, "
+")
+
+  file_var <-file(paste0("npr/", variable, ".Rmd"))
+  writeLines(text, file_var)
+  close(file_var)
+  
 }

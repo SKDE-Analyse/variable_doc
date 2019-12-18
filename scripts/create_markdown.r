@@ -5,7 +5,6 @@ data <- read.table('scripts/npr.csv', header = TRUE,  sep = ';',  stringsAsFacto
 # Loop over unique variables
 
 for (variable in unique(data$NAME)) {
-
   only_value <- dplyr::filter(data, NAME == variable)
   
   # List of files containing this variable
@@ -58,7 +57,7 @@ for (variable in unique(data$NAME)) {
   }
   
   text <- paste0("
-# ", variable, "
+# ", variable, " {-}
 
 | | |
 |----|----|
@@ -68,12 +67,18 @@ for (variable in unique(data$NAME)) {
 | Format   | ", var_format, " |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 ", file_list, "
 ")
 
-  file_var <-file(paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd"))
+  filename <- paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd")
+  if (!file.exists(filename)) {
+    file_var <- file(filename)
+  } else {
+    filename <- paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd")
+    file_var <- file(filename)
+  }
   writeLines(text, file_var)
   close(file_var)
   

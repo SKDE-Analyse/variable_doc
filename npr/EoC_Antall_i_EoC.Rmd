@@ -1,5 +1,5 @@
 
-# EoC_Antall_i_EoC
+# EoC_Antall_i_EoC {-}
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   |  |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 SKDE19.T19_REHAB_2014_18
 

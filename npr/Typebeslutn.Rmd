@@ -1,5 +1,5 @@
 
-# Typebeslutn
+# Typebeslutn {-}
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   |  |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 NPR19.M19_PAKKEFORLOP1518_UTL_FIL
 

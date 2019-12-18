@@ -366,13 +366,13 @@ SKDE19;T19_PARVUS_SHO_2015;DRGtypeHastegrad;Integer;3;Kombinert DRG-type og hast
 SKDE19;T19_PARVUS_SHO_2016;DRGtypeHastegrad;Integer;3;Kombinert DRG-type og hastegrad (SKDE);DRGTYPEHASTEGRAD
 SKDE19;T19_PARVUS_SHO_2017;DRGtypeHastegrad;Integer;3;Kombinert DRG-type og hastegrad (SKDE);DRGTYPEHASTEGRAD
 SKDE19;T19_PARVUS_SHO_2018;DRGtypeHastegrad;Integer;3;Kombinert DRG-type og hastegrad (SKDE);DRGTYPEHASTEGRAD
-SKDE19;T19_EXTRA_AVTSPES_2014;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_EXTRA_AVTSPES_2015;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_EXTRA_AVTSPES_2016;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_EXTRA_AVTSPES_2017;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_EXTRA_AVTSPES_2018;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_EXTRA_AVTSPES_2014;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_EXTRA_AVTSPES_2015;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_EXTRA_AVTSPES_2016;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_EXTRA_AVTSPES_2017;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_EXTRA_AVTSPES_2018;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
 SKDE19;T19_PERSONDATA;DodDato;Integer;8;;EURDFDD
-SKDE19;T19_REHAB_2014_18;DodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_REHAB_2014_18;DodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
 SKDE19;T19_REHAB_2014_18;EoC_Antall_i_EoC;Integer;8;;
 SKDE19;T19_REHAB_2014_18;EoC_Intern_nr;Integer;8;;
 SKDE19;T19_REHAB_2014_18;EoC_aar;Integer;8;;
@@ -386,42 +386,42 @@ SKDE19;T19_REHAB_2014_18;EoC_liggetid;Integer;8;;
 SKDE19;T19_REHAB_2014_18;EoC_nr_pid;Integer;8;;
 SKDE19;T19_REHAB_2014_18;EoC_utdato;Integer;8;;DATE
 SKDE19;T19_REHAB_2014_18;EoC_uttilstand;Integer;8;;
-SKDE19;T19_MAGNUS_AVD_2014;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVD_2015;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVD_2016;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVD_2017;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVD_2018;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVTSPES_2014;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVTSPES_2015;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVTSPES_2016;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVTSPES_2017;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_AVTSPES_2018;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_SHO_2014;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_SHO_2015;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_SHO_2016;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_SHO_2017;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_MAGNUS_SHO_2018;Episodefag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_EXTRA_AVTSPES_2014;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_EXTRA_AVTSPES_2015;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_EXTRA_AVTSPES_2016;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_EXTRA_AVTSPES_2017;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_EXTRA_AVTSPES_2018;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVD_2014;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVD_2015;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVD_2016;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVD_2017;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVD_2018;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVTSPES_2014;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVTSPES_2015;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVTSPES_2016;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVTSPES_2017;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_AVTSPES_2018;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_SHO_2014;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_SHO_2015;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_SHO_2016;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_SHO_2017;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_MAGNUS_SHO_2018;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
-SKDE19;T19_REHAB_2014_18;ErMann;Integer;3;Er mann (kjønn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2014;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVD_2015;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVD_2016;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVD_2017;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVD_2018;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVTSPES_2014;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVTSPES_2015;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVTSPES_2016;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVTSPES_2017;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_AVTSPES_2018;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_SHO_2014;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_SHO_2015;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_SHO_2016;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_SHO_2017;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_MAGNUS_SHO_2018;Episodefag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2014;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_EXTRA_AVTSPES_2015;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_EXTRA_AVTSPES_2016;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_EXTRA_AVTSPES_2017;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_EXTRA_AVTSPES_2018;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2014;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2015;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2016;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2017;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVD_2018;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVTSPES_2014;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVTSPES_2015;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVTSPES_2016;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVTSPES_2017;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_AVTSPES_2018;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_SHO_2014;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_SHO_2015;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_SHO_2016;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_SHO_2017;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_MAGNUS_SHO_2018;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
+SKDE19;T19_REHAB_2014_18;ErMann;Integer;3;Er mann (kjÃ¸nn, mann=1) (SKDE);ERMANN
 SKDE19;T19_EXTRA_AVTSPES_2014;Fag_SKDE;Integer;8;Fagfelt for avtalespesialisen - harmonisert 2014-2017 (SKDE);FAG_SKDE
 SKDE19;T19_EXTRA_AVTSPES_2015;Fag_SKDE;Integer;8;Fagfelt for avtalespesialisen - harmonisert 2014-2017 (SKDE);FAG_SKDE
 SKDE19;T19_EXTRA_AVTSPES_2016;Fag_SKDE;Integer;8;Fagfelt for avtalespesialisen - harmonisert 2014-2017 (SKDE);FAG_SKDE
@@ -444,7 +444,7 @@ NPR19;M19_AVTSPESSOM2016_UTL_FIL;Fag_navn;String;40;;
 NPR19;M19_AVTSPESSOM2017_UTL_FIL;Fag_navn;String;40;;
 NPR19;M19_AVTSPESSOM2018_UTL_FIL;Fag_navn;String;40;;
 NPR19;M19_PAKKEFORLOP1518_UTL_FIL;Fagenhet;String;69;;
-NPR19;M19_PAKKEFORLOP1518_UTL_FIL;Forløp;String;3;;
+NPR19;M19_PAKKEFORLOP1518_UTL_FIL;ForlÃ¸p;String;3;;
 SKDE19;T19_MAGNUS_AVD_2014;Fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
 SKDE19;T19_MAGNUS_AVD_2015;Fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
 SKDE19;T19_MAGNUS_AVD_2016;Fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
@@ -483,48 +483,48 @@ SKDE19;T19_EXTRA_AVTSPES_2016;Hdiag2;String;5;Hovedtilstand kode 2 (ICD-10/NPR-m
 SKDE19;T19_EXTRA_AVTSPES_2017;Hdiag2;String;5;Hovedtilstand kode 2 (ICD-10/NPR-melding/SKDE);
 SKDE19;T19_EXTRA_AVTSPES_2018;Hdiag2;String;5;Hovedtilstand kode 2 (ICD-10/NPR-melding/SKDE);
 SKDE19;T19_REHAB_2014_18;Hdiag2;String;6;Hovedtilstand kode 2 (ICD-10/NPR-melding/SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2014;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_EXTRA_AVTSPES_2015;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_EXTRA_AVTSPES_2016;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_EXTRA_AVTSPES_2017;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_EXTRA_AVTSPES_2018;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVD_2014;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVD_2015;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVD_2016;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVD_2017;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVD_2018;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVTSPES_2014;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVTSPES_2015;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVTSPES_2016;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVTSPES_2017;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_AVTSPES_2018;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_SHO_2014;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_SHO_2015;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_SHO_2016;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_SHO_2017;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_MAGNUS_SHO_2018;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_REHAB_2014_18;ICD10Kap;Integer;8;ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE);ICD10KAP
-SKDE19;T19_EXTRA_AVTSPES_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_EXTRA_AVTSPES_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_EXTRA_AVTSPES_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_EXTRA_AVTSPES_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_EXTRA_AVTSPES_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVD_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVD_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVD_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVD_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVD_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVTSPES_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVTSPES_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVTSPES_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVTSPES_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_AVTSPES_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_SHO_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_SHO_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_SHO_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_SHO_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_PARVUS_SHO_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
-SKDE19;T19_REHAB_2014_18;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_EXTRA_AVTSPES_2014;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_EXTRA_AVTSPES_2015;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_EXTRA_AVTSPES_2016;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_EXTRA_AVTSPES_2017;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_EXTRA_AVTSPES_2018;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVD_2014;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVD_2015;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVD_2016;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVD_2017;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVD_2018;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVTSPES_2014;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVTSPES_2015;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVTSPES_2016;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVTSPES_2017;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_AVTSPES_2018;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_SHO_2014;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_SHO_2015;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_SHO_2016;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_SHO_2017;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_MAGNUS_SHO_2018;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_REHAB_2014_18;ICD10Kap;Integer;8;ICD-10 kapittel for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KAP
+SKDE19;T19_EXTRA_AVTSPES_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_EXTRA_AVTSPES_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_EXTRA_AVTSPES_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_EXTRA_AVTSPES_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_EXTRA_AVTSPES_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVD_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVD_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVD_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVD_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVD_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVTSPES_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVTSPES_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVTSPES_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVTSPES_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_AVTSPES_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_SHO_2014;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_SHO_2015;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_SHO_2016;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_SHO_2017;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_PARVUS_SHO_2018;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
+SKDE19;T19_REHAB_2014_18;ICD10KatBlokk;Integer;8;ICD-10 kategoriblokk for fÃ¸rste kode hovedtilstand (ICD-10/SKDE);ICD10KATBLOKK
 SKDE19;T19_EXTRA_AVTSPES_2014;InnTid;Integer;8;Innskrivelsestidspunkt (NPR-melding);TIME
 SKDE19;T19_EXTRA_AVTSPES_2015;InnTid;Integer;8;Innskrivelsestidspunkt (NPR-melding);TIME
 SKDE19;T19_EXTRA_AVTSPES_2016;InnTid;Integer;8;Innskrivelsestidspunkt (NPR-melding);TIME
@@ -548,26 +548,26 @@ SKDE19;T19_PARVUS_AVTSPES_2018;InnTid;Integer;8;Innskrivelsestidspunkt (NPR-meld
 SKDE19;T19_REHAB_2014_18;InnTid;Integer;8;Innskrivelsestidspunkt (NPR-melding);TIME
 NPR19;M19_PAKKEFORLOP1518_UTL_FIL;Institusjon;String;45;;
 NPR19;M19_PAKKEFORLOP1518_UTL_FIL;Kliniskbeslutn;String;10;Klinisk beslutn.;
-SKDE19;T19_EXTRA_AVTSPES_2014;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2015;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2016;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2017;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2018;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVD_2014;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVD_2015;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVD_2016;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVD_2017;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVD_2018;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2014;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2015;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2016;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2017;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2018;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_SHO_2014;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_SHO_2015;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_SHO_2016;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_SHO_2017;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_PARVUS_SHO_2018;KoblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2014;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2015;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2016;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2017;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2018;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVD_2014;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVD_2015;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVD_2016;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVD_2017;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVD_2018;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2014;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2015;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2016;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2017;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2018;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_SHO_2014;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_SHO_2015;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_SHO_2016;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_SHO_2017;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_PARVUS_SHO_2018;KoblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
 NPR19;M19_PROSEDYREDATO1418_UTL_FIL;Kodeverk;String;1;;
 SKDE19;T19_EXTRA_AVTSPES_2014;KomNr;Integer;4;Kommunenummer vasket mot Folkeregisteret, numerisk (NPR-melding/SKDE);
 SKDE19;T19_EXTRA_AVTSPES_2015;KomNr;Integer;4;Kommunenummer vasket mot Folkeregisteret, numerisk (NPR-melding/SKDE);
@@ -1595,16 +1595,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;NCSP_9;String;6;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;NCSP_9;String;6;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;NCSP_9;String;6;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;NCSP_9;String;6;;
-SKDE19;T19_PARVUS_AVD_2014;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_AVD_2015;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_AVD_2016;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_AVD_2017;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_AVD_2018;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_SHO_2014;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_SHO_2015;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_SHO_2016;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_SHO_2017;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
-SKDE19;T19_PARVUS_SHO_2018;NPKResultat_oppholdID;Integer;8;Unik ID innen kjørejobb (NPK);
+SKDE19;T19_PARVUS_AVD_2014;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_AVD_2015;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_AVD_2016;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_AVD_2017;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_AVD_2018;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_SHO_2014;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_SHO_2015;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_SHO_2016;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_SHO_2017;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
+SKDE19;T19_PARVUS_SHO_2018;NPKResultat_oppholdID;Integer;8;Unik ID innen kjÃ¸rejobb (NPK);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;NPKResultat_oppholdID;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;NPKResultat_oppholdID;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;NPKResultat_oppholdID;Integer;8;;
@@ -1793,7 +1793,7 @@ SKDE19;T19_MAGNUS_AVTSPES_2016;Normaltariff9;String;8;Normaltariff kode 9 (Norma
 SKDE19;T19_MAGNUS_AVTSPES_2017;Normaltariff9;String;8;Normaltariff kode 9 (Normaltariff for avtalespesialister);
 SKDE19;T19_MAGNUS_AVTSPES_2018;Normaltariff9;String;8;Normaltariff kode 9 (Normaltariff for avtalespesialister);
 SKDE19;T19_PERSONDATA;PID;Integer;8;;
-NPR19;M19_PAKKEFORLOP1518_UTL_FIL;Pakkeforløp;String;49;;
+NPR19;M19_PAKKEFORLOP1518_UTL_FIL;PakkeforlÃ¸p;String;49;;
 SKDE19;T19_PARVUS_AVD_2014;RehabType;Integer;4;Type rehabilitering (NPK);REHABTYPE
 SKDE19;T19_PARVUS_AVD_2015;RehabType;Integer;4;Type rehabilitering (NPK);REHABTYPE
 SKDE19;T19_PARVUS_AVD_2016;RehabType;Integer;4;Type rehabilitering (NPK);REHABTYPE
@@ -1931,42 +1931,42 @@ SKDE19;T19_PARVUS_SHO_2016;VertskommHN;Integer;4;Vertskommune (HN) (SKDE);VERTSK
 SKDE19;T19_PARVUS_SHO_2017;VertskommHN;Integer;4;Vertskommune (HN) (SKDE);VERTSKOMMHN
 SKDE19;T19_PARVUS_SHO_2018;VertskommHN;Integer;4;Vertskommune (HN) (SKDE);VERTSKOMMHN
 SKDE19;T19_REHAB_2014_18;VertskommHN;Integer;8;Vertskommune (HN) (SKDE);VERTSKOMMHN
-SKDE19;T19_EXTRA_AVTSPES_2014;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2015;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2016;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2017;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2018;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_AVD_2014;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_AVD_2015;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_AVD_2016;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_AVD_2017;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_AVD_2018;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2014;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2015;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2016;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2017;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2018;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_MAGNUS_SHO_2014;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_SHO_2015;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_SHO_2016;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_SHO_2017;aar;Integer;4;År (NPR);
-SKDE19;T19_MAGNUS_SHO_2018;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVD_2014;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVD_2015;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVD_2016;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVD_2017;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVD_2018;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2014;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2015;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2016;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2017;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2018;aar;Integer;4;År fra inndato (SKDE);
-SKDE19;T19_PARVUS_SHO_2014;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_SHO_2015;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_SHO_2016;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_SHO_2017;aar;Integer;4;År (NPR);
-SKDE19;T19_PARVUS_SHO_2018;aar;Integer;4;År (NPR);
-SKDE19;T19_REHAB_2014_18;aar;Integer;4;År (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2014;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2015;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2016;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2017;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2018;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_AVD_2014;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_AVD_2015;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_AVD_2016;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_AVD_2017;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_AVD_2018;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2014;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2015;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2016;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2017;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2018;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_MAGNUS_SHO_2014;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_SHO_2015;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_SHO_2016;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_SHO_2017;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_MAGNUS_SHO_2018;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVD_2014;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVD_2015;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVD_2016;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVD_2017;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVD_2018;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2014;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2015;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2016;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2017;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2018;aar;Integer;4;Ã…r fra inndato (SKDE);
+SKDE19;T19_PARVUS_SHO_2014;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_SHO_2015;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_SHO_2016;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_SHO_2017;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_PARVUS_SHO_2018;aar;Integer;4;Ã…r (NPR);
+SKDE19;T19_REHAB_2014_18;aar;Integer;4;Ã…r (NPR);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;aar;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;aar;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;aar;Integer;8;;
@@ -2116,16 +2116,16 @@ SKDE19;T19_MAGNUS_SHO_2015;alder;Integer;8;Alder (SKDE);
 SKDE19;T19_MAGNUS_SHO_2016;alder;Integer;8;Alder (SKDE);
 SKDE19;T19_MAGNUS_SHO_2017;alder;Integer;8;Alder (SKDE);
 SKDE19;T19_MAGNUS_SHO_2018;alder;Integer;8;Alder (SKDE);
-SKDE19;T19_PARVUS_AVD_2014;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2015;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2016;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2017;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2018;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2014;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2015;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2016;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2017;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2018;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2014;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2015;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2016;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2017;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2018;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2014;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2015;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2016;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2017;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2018;alderIDager;Integer;4;Alder i dager per startdato for episoden (barn < 1 Ã¥r) (NPR-melding);
 SKDE19;T19_REHAB_2014_18;alderIDager;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;alderIDager;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;alderIDager;Integer;8;;
@@ -2539,69 +2539,69 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;behandlingsstedReshID;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;behandlingsstedReshID;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;behandlingsstedReshID;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;behandlingsstedReshID;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2015;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2016;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2017;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2018;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVD_2014;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVD_2015;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVD_2016;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVD_2017;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVD_2018;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVTSPES_2014;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVTSPES_2015;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVTSPES_2016;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVTSPES_2017;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_AVTSPES_2018;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_SHO_2014;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_SHO_2015;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_SHO_2016;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_SHO_2017;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_MAGNUS_SHO_2018;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_REHAB_2014_18;bohf;Integer;4;Opptaksområde (HF) (SKDE);BOHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2014;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_EXTRA_AVTSPES_2015;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_EXTRA_AVTSPES_2016;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_EXTRA_AVTSPES_2017;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_EXTRA_AVTSPES_2018;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVD_2014;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVD_2015;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVD_2016;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVD_2017;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVD_2018;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVTSPES_2014;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVTSPES_2015;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVTSPES_2016;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVTSPES_2017;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_AVTSPES_2018;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_SHO_2014;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_SHO_2015;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_SHO_2016;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_SHO_2017;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_MAGNUS_SHO_2018;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF
-SKDE19;T19_REHAB_2014_18;borhf;Integer;4;Opptaksområde (RHF) (SKDE);BORHF_KORT
-SKDE19;T19_EXTRA_AVTSPES_2014;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_EXTRA_AVTSPES_2015;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_EXTRA_AVTSPES_2016;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_EXTRA_AVTSPES_2017;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_EXTRA_AVTSPES_2018;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVD_2014;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVD_2015;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVD_2016;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVD_2017;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVD_2018;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVTSPES_2014;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVTSPES_2015;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVTSPES_2016;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVTSPES_2017;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_AVTSPES_2018;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_SHO_2014;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_SHO_2015;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_SHO_2016;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_SHO_2017;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_MAGNUS_SHO_2018;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN
-SKDE19;T19_REHAB_2014_18;boshhn;Integer;4;Opptaksområde (sykehus HN) (SKDE);BOSHHN_KORT
+SKDE19;T19_EXTRA_AVTSPES_2014;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2015;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2016;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2017;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2018;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVD_2014;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVD_2015;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVD_2016;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVD_2017;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVD_2018;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVTSPES_2014;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVTSPES_2015;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVTSPES_2016;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVTSPES_2017;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_AVTSPES_2018;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_SHO_2014;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_SHO_2015;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_SHO_2016;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_SHO_2017;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_MAGNUS_SHO_2018;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_REHAB_2014_18;bohf;Integer;4;OpptaksomrÃ¥de (HF) (SKDE);BOHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2014;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_EXTRA_AVTSPES_2015;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_EXTRA_AVTSPES_2016;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_EXTRA_AVTSPES_2017;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_EXTRA_AVTSPES_2018;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVD_2014;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVD_2015;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVD_2016;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVD_2017;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVD_2018;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVTSPES_2014;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVTSPES_2015;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVTSPES_2016;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVTSPES_2017;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_AVTSPES_2018;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_SHO_2014;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_SHO_2015;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_SHO_2016;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_SHO_2017;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_MAGNUS_SHO_2018;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF
+SKDE19;T19_REHAB_2014_18;borhf;Integer;4;OpptaksomrÃ¥de (RHF) (SKDE);BORHF_KORT
+SKDE19;T19_EXTRA_AVTSPES_2014;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_EXTRA_AVTSPES_2015;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_EXTRA_AVTSPES_2016;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_EXTRA_AVTSPES_2017;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_EXTRA_AVTSPES_2018;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVD_2014;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVD_2015;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVD_2016;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVD_2017;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVD_2018;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVTSPES_2014;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVTSPES_2015;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVTSPES_2016;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVTSPES_2017;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_AVTSPES_2018;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_SHO_2014;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_SHO_2015;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_SHO_2016;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_SHO_2017;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_MAGNUS_SHO_2018;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN
+SKDE19;T19_REHAB_2014_18;boshhn;Integer;4;OpptaksomrÃ¥de (sykehus HN) (SKDE);BOSHHN_KORT
 SKDE19;T19_EXTRA_AVTSPES_2014;bydel;Integer;6;Bydel i Oslo, Bergen, Stavanger og Trondhem vasket mot Folkeregisteret (SKDE);BYDEL_ALLE
 SKDE19;T19_EXTRA_AVTSPES_2015;bydel;Integer;6;Bydel i Oslo, Bergen, Stavanger og Trondhem vasket mot Folkeregisteret (SKDE);BYDEL_ALLE
 SKDE19;T19_EXTRA_AVTSPES_2016;bydel;Integer;6;Bydel i Oslo, Bergen, Stavanger og Trondhem vasket mot Folkeregisteret (SKDE);BYDEL_ALLE
@@ -2975,21 +2975,21 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;debitor;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;debitor;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;debitor;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;debitor;Integer;8;;
-SKDE19;T19_MAGNUS_AVD_2014;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVD_2015;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVD_2016;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVD_2017;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVD_2018;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVTSPES_2014;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVTSPES_2015;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVTSPES_2016;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVTSPES_2017;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_AVTSPES_2018;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_SHO_2014;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_SHO_2015;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_SHO_2016;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_SHO_2017;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
-SKDE19;T19_MAGNUS_SHO_2018;dodDato;Integer;4;Dødedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVD_2014;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVD_2015;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVD_2016;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVD_2017;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVD_2018;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVTSPES_2014;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVTSPES_2015;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVTSPES_2016;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVTSPES_2017;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_AVTSPES_2018;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_SHO_2014;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_SHO_2015;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_SHO_2016;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_SHO_2017;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
+SKDE19;T19_MAGNUS_SHO_2018;dodDato;Integer;4;DÃ¸dedato - per 19062019 (NPR);EURDFDD
 NPR19;M19_PERSON_190619_UTL_FIL;dodDato_DSF_190619;String;10;;
 SKDE19;T19_MAGNUS_AVD_2014;drg;String;4;Diagnoserelatert gruppe (NPK);$DRG
 SKDE19;T19_MAGNUS_AVD_2015;drg;String;4;Diagnoserelatert gruppe (NPK);$DRG
@@ -3094,12 +3094,12 @@ SKDE19;T19_PARVUS_SHO_2018;emigrertDato;Integer;4;Emigrert dato - per 19062019 (
 SKDE19;T19_PERSONDATA;emigrertDato;Integer;8;;EURDFDD
 SKDE19;T19_REHAB_2014_18;emigrertDato;Integer;4;Emigrert dato - per 19062019 (NPR);EURDFDD
 NPR19;M19_PERSON_190619_UTL_FIL;emigrertDato_DSF_190619;String;10;;
-SKDE19;T19_EXTRA_AVTSPES_2014;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_EXTRA_AVTSPES_2015;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_EXTRA_AVTSPES_2016;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_EXTRA_AVTSPES_2017;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_EXTRA_AVTSPES_2018;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
-SKDE19;T19_REHAB_2014_18;episodeFag;String;3;Fagområde for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2014;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2015;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2016;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2017;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_EXTRA_AVTSPES_2018;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
+SKDE19;T19_REHAB_2014_18;episodeFag;String;3;FagomrÃ¥de for Episoden (NPR-melding);$FAGOMRADE
 NPR19;M19_AVD1418_UTLEVERINGSFIL;episodeFag;String;3;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;episodeFag;String;3;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;episodeFag;String;3;;
@@ -3287,16 +3287,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;fagenhetReshID;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;fagenhetReshID;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;fagenhetReshID;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;fagenhetReshID;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_AVD_2015;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_AVD_2016;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_AVD_2017;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_AVD_2018;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_SHO_2014;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_SHO_2015;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_SHO_2016;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_SHO_2017;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
-SKDE19;T19_PARVUS_SHO_2018;fagomrade;String;3;Fagområde for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_AVD_2014;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_AVD_2015;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_AVD_2016;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_AVD_2017;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_AVD_2018;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_SHO_2014;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_SHO_2015;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_SHO_2016;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_SHO_2017;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
+SKDE19;T19_PARVUS_SHO_2018;fagomrade;String;3;FagomrÃ¥de for henvisningen (NPR-melding);$FAGOMRADE
 SKDE19;T19_REHAB_2014_18;fagomrade;String;3;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;fagomrade;String;3;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;fagomrade;String;3;;
@@ -3322,27 +3322,27 @@ SKDE19;T19_PARVUS_SHO_2015;fodselsAar_ident;Integer;3;;
 SKDE19;T19_PARVUS_SHO_2016;fodselsAar_ident;Integer;3;;
 SKDE19;T19_PARVUS_SHO_2017;fodselsAar_ident;Integer;3;;
 SKDE19;T19_PARVUS_SHO_2018;fodselsAar_ident;Integer;3;;
-SKDE19;T19_EXTRA_AVTSPES_2014;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2015;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2016;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2017;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2018;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVD_2014;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVD_2015;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVD_2016;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVD_2017;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVD_2018;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2014;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2015;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2016;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2017;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2018;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_SHO_2014;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_SHO_2015;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_SHO_2016;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_SHO_2017;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_MAGNUS_SHO_2018;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
-SKDE19;T19_REHAB_2014_18;fodselsar;Integer;4;Fødselsår fra personnr og innrapportert (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2014;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2015;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2016;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2017;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2018;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVD_2014;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVD_2015;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVD_2016;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVD_2017;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVD_2018;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2014;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2015;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2016;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2017;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2018;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_SHO_2014;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_SHO_2015;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_SHO_2016;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_SHO_2017;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_MAGNUS_SHO_2018;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
+SKDE19;T19_REHAB_2014_18;fodselsar;Integer;4;FÃ¸dselsÃ¥r fra personnr og innrapportert (NPR);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;fodselsar;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;fodselsar;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;fodselsar;Integer;8;;
@@ -3386,16 +3386,16 @@ SKDE19;T19_PARVUS_SHO_2016;fodselsar_innrapp;Integer;8;;
 SKDE19;T19_PARVUS_SHO_2017;fodselsar_innrapp;Integer;8;;
 SKDE19;T19_PARVUS_SHO_2018;fodselsar_innrapp;Integer;8;;
 SKDE19;T19_REHAB_2014_18;fodselsar_innrapp;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2015;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2016;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2017;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2018;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2014;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2015;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2016;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2017;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2018;fodselsvekt;Integer;4;Fødselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2014;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2015;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2016;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2017;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2018;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2014;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2015;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2016;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2017;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2018;fodselsvekt;Integer;4;FÃ¸dselsvekt (NPR-melding);
 SKDE19;T19_REHAB_2014_18;fodselsvekt;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;fodselsvekt;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;fodselsvekt;Integer;8;;
@@ -3413,72 +3413,72 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;fodselsvekt;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;fodselsvekt;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;fodselsvekt;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;fodselsvekt;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2015;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2016;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2017;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2018;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2014;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2015;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2016;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2017;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2018;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2014;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2015;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2016;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2017;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2018;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2014;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2015;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2016;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2017;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2018;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2014;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2015;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2016;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2017;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2018;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2014;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2015;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2016;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2017;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2018;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2014;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2015;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2016;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2017;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2018;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2014;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2015;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2016;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2017;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2018;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
 SKDE19;T19_PERSONDATA;fodtAar_DSF_190619;Integer;8;;
-SKDE19;T19_REHAB_2014_18;fodtAar_DSF_190619;Integer;8;Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_REHAB_2014_18;fodtAar_DSF_190619;Integer;8;FÃ¸dselsÃ¥r fra f.nr. ved siste kontakt med spes.helsetjenesten;
 NPR19;M19_PERSON_190619_UTL_FIL;fodtAar_DSF_190619;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2015;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2016;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2017;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_EXTRA_AVTSPES_2018;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2014;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2015;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2016;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2017;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVD_2018;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2014;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2015;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2016;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2017;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_AVTSPES_2018;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2014;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2015;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2016;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2017;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
-SKDE19;T19_PARVUS_SHO_2018;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2014;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2015;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2016;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2017;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_EXTRA_AVTSPES_2018;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2014;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2015;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2016;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2017;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVD_2018;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2014;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2015;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2016;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2017;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_AVTSPES_2018;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2014;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2015;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2016;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2017;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_PARVUS_SHO_2018;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
 SKDE19;T19_PERSONDATA;fodtMnd_DSF_190619;Integer;8;;
-SKDE19;T19_REHAB_2014_18;fodtMnd_DSF_190619;Integer;8;Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten;
+SKDE19;T19_REHAB_2014_18;fodtMnd_DSF_190619;Integer;8;FÃ¸dselsmÃ¥ned fra f.nr. ved siste kontakt med spes.helsetjenesten;
 NPR19;M19_PERSON_190619_UTL_FIL;fodtMnd_DSF_190619;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2014;fodt_mnd;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2015;fodt_mnd;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2016;fodt_mnd;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2017;fodt_mnd;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2018;fodt_mnd;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_AVD_2015;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_AVD_2016;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_AVD_2017;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_AVD_2018;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_AVD_2014;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_AVD_2015;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_AVD_2016;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_AVD_2017;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_AVD_2018;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
 SKDE19;T19_PARVUS_AVTSPES_2014;fodt_mnd;Integer;8;;
 SKDE19;T19_PARVUS_AVTSPES_2015;fodt_mnd;Integer;8;;
 SKDE19;T19_PARVUS_AVTSPES_2016;fodt_mnd;Integer;8;;
 SKDE19;T19_PARVUS_AVTSPES_2017;fodt_mnd;Integer;8;;
 SKDE19;T19_PARVUS_AVTSPES_2018;fodt_mnd;Integer;8;;
-SKDE19;T19_PARVUS_SHO_2014;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_SHO_2015;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_SHO_2016;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_SHO_2017;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
-SKDE19;T19_PARVUS_SHO_2018;fodt_mnd;Integer;3;Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_SHO_2014;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_SHO_2015;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_SHO_2016;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_SHO_2017;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
+SKDE19;T19_PARVUS_SHO_2018;fodt_mnd;Integer;3;FÃ¸dselsmÃ¥ned fra personnr - ident-info fra nasjonal fil (NPR);
 SKDE19;T19_REHAB_2014_18;fodt_mnd;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;fodt_mnd;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;fodt_mnd;Integer;8;;
@@ -3634,16 +3634,16 @@ SKDE19;T19_EXTRA_AVTSPES_2016;fylke;Integer;4;Fylke (pasientens bosted) (SKDE);F
 SKDE19;T19_EXTRA_AVTSPES_2017;fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
 SKDE19;T19_EXTRA_AVTSPES_2018;fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
 SKDE19;T19_REHAB_2014_18;fylke;Integer;4;Fylke (pasientens bosted) (SKDE);FYLKE
-SKDE19;T19_PARVUS_AVD_2014;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2015;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2016;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2017;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2018;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2014;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2015;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2016;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2017;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2018;g_omsorgsniva;Integer;3;Gammelt omsorgsnivå (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2014;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2015;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2016;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2017;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2018;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2014;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2015;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2016;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2017;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2018;g_omsorgsniva;Integer;3;Gammelt omsorgsnivÃ¥ (NPR);G_OMSORGSNIVA
 SKDE19;T19_REHAB_2014_18;g_omsorgsniva;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;g_omsorgsniva;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;g_omsorgsniva;Integer;8;;
@@ -5967,16 +5967,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;hf;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;hf;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;hf;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;hf;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2015;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2016;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2017;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2018;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2014;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2015;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2016;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2017;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2018;hjemmelstr;String;4;Hjemmelstørrelse i prosent (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2014;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2015;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2016;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2017;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2018;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2014;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2015;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2016;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2017;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2018;hjemmelstr;String;4;HjemmelstÃ¸rrelse i prosent (NPR);
 NPR19;M19_AVTSPESSOM1418_UTL_FIL;hjemmelstr;String;4;;
 NPR19;M19_AVTSPESSOM2014_UTL_FIL;hjemmelstr;String;4;;
 NPR19;M19_AVTSPESSOM2015_UTL_FIL;hjemmelstr;String;4;;
@@ -6222,16 +6222,16 @@ NPR19;M19_AVTSPESSOM2015_UTL_FIL;institusjonID_navn;String;33;;
 NPR19;M19_AVTSPESSOM2016_UTL_FIL;institusjonID_navn;String;33;;
 NPR19;M19_AVTSPESSOM2017_UTL_FIL;institusjonID_navn;String;33;;
 NPR19;M19_AVTSPESSOM2018_UTL_FIL;institusjonID_navn;String;33;;
-SKDE19;T19_PARVUS_AVD_2014;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2015;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2016;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2017;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2018;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2014;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2015;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2016;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2017;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2018;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2014;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2015;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2016;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2017;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2018;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2014;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2015;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2016;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2017;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2018;institusjonID_original;Integer;6;Org.nr. til rapporteringsenhet, identifiserer strÃ¥leterapienheter (NPR-melding);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;institusjonID_original;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;institusjonID_original;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;institusjonID_original;Integer;8;;
@@ -6262,16 +6262,16 @@ SKDE19;T19_MAGNUS_SHO_2017;institusjonId;Integer;6;Org.nr. til rapporteringsenhe
 SKDE19;T19_MAGNUS_SHO_2018;institusjonId;Integer;6;Org.nr. til rapporteringsenhet (NPR-melding);INSTITUSJONID_2013_2017F
 NPR19;M19_DIALYSE1618_UTL_FIL;institusjonId;String;9;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;institusjonId;String;20;;
-SKDE19;T19_MAGNUS_AVD_2014;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_AVD_2015;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_AVD_2016;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_AVD_2017;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_AVD_2018;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_SHO_2014;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_SHO_2015;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_SHO_2016;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_SHO_2017;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
-SKDE19;T19_MAGNUS_SHO_2018;intern_kons;Integer;4;Intern konsultasjon på inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_AVD_2014;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_AVD_2015;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_AVD_2016;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_AVD_2017;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_AVD_2018;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_SHO_2014;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_SHO_2015;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_SHO_2016;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_SHO_2017;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
+SKDE19;T19_MAGNUS_SHO_2018;intern_kons;Integer;4;Intern konsultasjon pÃ¥ inneliggende pasient (NPR);INTERN_KONS
 SKDE19;T19_REHAB_2014_18;intern_kons;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;intern_kons;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;intern_kons;Integer;8;;
@@ -6339,27 +6339,27 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;isf_opphold;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;isf_opphold;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;isf_opphold;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;isf_opphold;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_EXTRA_AVTSPES_2015;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_EXTRA_AVTSPES_2016;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_EXTRA_AVTSPES_2017;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_EXTRA_AVTSPES_2018;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVD_2014;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVD_2015;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVD_2016;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVD_2017;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVD_2018;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVTSPES_2014;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVTSPES_2015;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVTSPES_2016;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVTSPES_2017;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_AVTSPES_2018;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_SHO_2014;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_SHO_2015;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_SHO_2016;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_SHO_2017;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_PARVUS_SHO_2018;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
-SKDE19;T19_REHAB_2014_18;kjonn;Integer;4;Kjønn (NPR-melding);KJONN
+SKDE19;T19_EXTRA_AVTSPES_2014;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_EXTRA_AVTSPES_2015;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_EXTRA_AVTSPES_2016;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_EXTRA_AVTSPES_2017;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_EXTRA_AVTSPES_2018;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVD_2014;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVD_2015;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVD_2016;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVD_2017;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVD_2018;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVTSPES_2014;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVTSPES_2015;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVTSPES_2016;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVTSPES_2017;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_AVTSPES_2018;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_SHO_2014;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_SHO_2015;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_SHO_2016;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_SHO_2017;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_PARVUS_SHO_2018;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
+SKDE19;T19_REHAB_2014_18;kjonn;Integer;4;KjÃ¸nn (NPR-melding);KJONN
 NPR19;M19_AVD1418_UTLEVERINGSFIL;kjonn;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;kjonn;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;kjonn;Integer;8;;
@@ -6382,28 +6382,28 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;kjonn;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;kjonn;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;kjonn;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;kjonn;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_EXTRA_AVTSPES_2015;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_EXTRA_AVTSPES_2016;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_EXTRA_AVTSPES_2017;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_EXTRA_AVTSPES_2018;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVD_2014;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVD_2015;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVD_2016;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVD_2017;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVD_2018;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVTSPES_2014;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVTSPES_2015;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVTSPES_2016;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVTSPES_2017;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_AVTSPES_2018;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_SHO_2014;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_SHO_2015;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_SHO_2016;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_SHO_2017;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
-SKDE19;T19_PARVUS_SHO_2018;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_EXTRA_AVTSPES_2014;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_EXTRA_AVTSPES_2015;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_EXTRA_AVTSPES_2016;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_EXTRA_AVTSPES_2017;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_EXTRA_AVTSPES_2018;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVD_2014;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVD_2015;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVD_2016;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVD_2017;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVD_2018;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVTSPES_2014;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVTSPES_2015;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVTSPES_2016;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVTSPES_2017;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_AVTSPES_2018;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_SHO_2014;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_SHO_2015;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_SHO_2016;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_SHO_2017;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_PARVUS_SHO_2018;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
 SKDE19;T19_PERSONDATA;kjonn_DSF_190619;Integer;8;;
-SKDE19;T19_REHAB_2014_18;kjonn_DSF_190619;Integer;8;Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
+SKDE19;T19_REHAB_2014_18;kjonn_DSF_190619;Integer;8;KjÃ¸nn fra f.nr. ved siste kontakt med spes.helsetjenesten;KJONN
 NPR19;M19_PERSON_190619_UTL_FIL;kjonn_DSF_190619;Integer;8;;
 SKDE19;T19_EXTRA_AVTSPES_2014;kjonn_navn;String;16;;
 SKDE19;T19_EXTRA_AVTSPES_2015;kjonn_navn;String;16;;
@@ -6421,21 +6421,21 @@ NPR19;M19_AVTSPESSOM2015_UTL_FIL;kjonn_navn;String;16;;
 NPR19;M19_AVTSPESSOM2016_UTL_FIL;kjonn_navn;String;16;;
 NPR19;M19_AVTSPESSOM2017_UTL_FIL;kjonn_navn;String;16;;
 NPR19;M19_AVTSPESSOM2018_UTL_FIL;kjonn_navn;String;16;;
-SKDE19;T19_MAGNUS_AVD_2014;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVD_2015;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVD_2016;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVD_2017;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVD_2018;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2014;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2015;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2016;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2017;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_AVTSPES_2018;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_SHO_2014;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_SHO_2015;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_SHO_2016;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_SHO_2017;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
-SKDE19;T19_MAGNUS_SHO_2018;koblingsID;Integer;8;Unik id for påkobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVD_2014;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVD_2015;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVD_2016;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVD_2017;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVD_2018;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2014;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2015;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2016;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2017;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_AVTSPES_2018;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_SHO_2014;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_SHO_2015;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_SHO_2016;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_SHO_2017;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
+SKDE19;T19_MAGNUS_SHO_2018;koblingsID;Integer;8;Unik id for pÃ¥kobling av variabler (SKDE);
 SKDE19;T19_REHAB_2014_18;koblingsID;Integer;8;;
 NPR19;M19_PROSEDYREDATO1418_UTL_FIL;kodeNr;Integer;8;;
 NPR19;M19_PROSEDYREDATO1418_UTL_FIL;kodeVersjon;String;4;;
@@ -6766,16 +6766,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;liggetid;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;liggetid;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;liggetid;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;liggetid;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_AVD_2015;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_AVD_2016;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_AVD_2017;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_AVD_2018;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_SHO_2014;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_SHO_2015;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_SHO_2016;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_SHO_2017;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
-SKDE19;T19_PARVUS_SHO_2018;liggetid_periode;Integer;8;Liggetid i utskrivelsesåret (NPR);
+SKDE19;T19_PARVUS_AVD_2014;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_AVD_2015;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_AVD_2016;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_AVD_2017;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_AVD_2018;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_SHO_2014;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_SHO_2015;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_SHO_2016;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_SHO_2017;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
+SKDE19;T19_PARVUS_SHO_2018;liggetid_periode;Integer;8;Liggetid i utskrivelsesÃ¥ret (NPR);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;liggetid_periode;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;liggetid_periode;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;liggetid_periode;Integer;8;;
@@ -7730,16 +7730,16 @@ NPR19;M19_DIALYSE1618_UTL_FIL;ncsp_8;String;5;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;ncsp_8;String;5;;
 NPR19;M19_DIALYSE1618_UTL_FIL;ncsp_9;String;5;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;ncsp_9;String;5;;
-SKDE19;T19_MAGNUS_AVD_2014;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_AVD_2015;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_AVD_2016;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_AVD_2017;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_AVD_2018;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_SHO_2014;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_SHO_2015;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_SHO_2016;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_SHO_2017;niva;String;1;Nivå på episode (NPK);$NIVA
-SKDE19;T19_MAGNUS_SHO_2018;niva;String;1;Nivå på episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_AVD_2014;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_AVD_2015;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_AVD_2016;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_AVD_2017;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_AVD_2018;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_SHO_2014;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_SHO_2015;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_SHO_2016;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_SHO_2017;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
+SKDE19;T19_MAGNUS_SHO_2018;niva;String;1;NivÃ¥ pÃ¥ episode (NPK);$NIVA
 NPR19;M19_AVD1418_UTLEVERINGSFIL;niva;String;1;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;niva;String;1;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;niva;String;1;;
@@ -7803,16 +7803,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;npkOpphold_ErTellendeISFOppholdO;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;npkOpphold_ErTellendeISFOppholdO;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;npkOpphold_ErTellendeISFOppholdO;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;npkOpphold_ErTellendeISFOppholdO;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_AVD_2015;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_AVD_2016;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_AVD_2017;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_AVD_2018;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_SHO_2014;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_SHO_2015;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_SHO_2016;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_SHO_2017;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
-SKDE19;T19_PARVUS_SHO_2018;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og Særtjenester (NPK);
+SKDE19;T19_PARVUS_AVD_2014;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_AVD_2015;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_AVD_2016;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_AVD_2017;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_AVD_2018;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_SHO_2014;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_SHO_2015;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_SHO_2016;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_SHO_2017;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
+SKDE19;T19_PARVUS_SHO_2018;npkOpphold_ISFPoeng;Integer;8;Sum av ISFPoeng for alle Opphold og SÃ¦rtjenester (NPK);
 NPR19;M19_AVD1418_UTLEVERINGSFIL;npkOpphold_ISFPoeng;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;npkOpphold_ISFPoeng;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;npkOpphold_ISFPoeng;Integer;8;;
@@ -7828,16 +7828,16 @@ NPR19;M19_SHO2017_UTLEVERINGSFIL;npkOpphold_ISFPoeng;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;npkOpphold_ISFPoeng;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;npkOpphold_ISFPoeng;Integer;8;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;npkOpphold_PoengSum;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2015;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2016;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2017;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2018;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2014;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2015;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2016;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2017;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2018;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2014;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2015;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2016;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2017;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2018;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2014;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2015;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2016;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2017;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2018;npkOpphold_antallAvdelingsopphol;Integer;8;"Antall avdelingsopphold som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
 NPR19;M19_AVD1418_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
@@ -7852,16 +7852,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;npkOpphold_antallAvdelingsopphol;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2015;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2016;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2017;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_AVD_2018;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2014;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2015;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2016;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2017;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
-SKDE19;T19_PARVUS_SHO_2018;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngår i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2014;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2015;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2016;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2017;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_AVD_2018;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2014;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2015;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2016;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2017;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
+SKDE19;T19_PARVUS_SHO_2018;npkOpphold_antallKontakter;Integer;8;"Antall kontakter som inngÃ¥r i det aggregerte ""sykehusoppholdet"" (NPK)";
 NPR19;M19_AVD1418_UTLEVERINGSFIL;npkOpphold_antallKontakter;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;npkOpphold_antallKontakter;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;npkOpphold_antallKontakter;Integer;8;;
@@ -7943,27 +7943,27 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;nyTilstand;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;nyTilstand;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;nyTilstand;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;nyTilstand;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2015;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2016;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2017;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2018;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2014;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2015;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2016;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2017;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVD_2018;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2014;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2015;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2016;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2017;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2018;omsorgsniva;Integer;8;Omsorgsnivå (SKDE);OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2014;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2015;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2016;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2017;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_SHO_2018;omsorgsniva;Integer;4;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_REHAB_2014_18;omsorgsniva;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2014;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2015;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2016;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2017;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2018;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2014;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2015;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2016;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2017;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVD_2018;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2014;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2015;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2016;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2017;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2018;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (SKDE);OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2014;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2015;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2016;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2017;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_SHO_2018;omsorgsniva;Integer;4;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_REHAB_2014_18;omsorgsniva;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
 NPR19;M19_AVD1418_UTLEVERINGSFIL;omsorgsniva;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;omsorgsniva;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;omsorgsniva;Integer;8;;
@@ -8027,16 +8027,16 @@ NPR19;M19_AVTSPESSOM2015_UTL_FIL;omsorgsniva_navn;String;34;;
 NPR19;M19_AVTSPESSOM2016_UTL_FIL;omsorgsniva_navn;String;34;;
 NPR19;M19_AVTSPESSOM2017_UTL_FIL;omsorgsniva_navn;String;34;;
 NPR19;M19_AVTSPESSOM2018_UTL_FIL;omsorgsniva_navn;String;34;;
-SKDE19;T19_EXTRA_AVTSPES_2014;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2015;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2016;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2017;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_EXTRA_AVTSPES_2018;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2014;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2015;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2016;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2017;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
-SKDE19;T19_PARVUS_AVTSPES_2018;omsorgsniva_org;Integer;8;Omsorgsnivå (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2014;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2015;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2016;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2017;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_EXTRA_AVTSPES_2018;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2014;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2015;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2016;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2017;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
+SKDE19;T19_PARVUS_AVTSPES_2018;omsorgsniva_org;Integer;8;OmsorgsnivÃ¥ (NPR-melding);OMSORGSNIVA
 SKDE19;T19_PARVUS_AVD_2014;opphold_id_LNr;Integer;8;;
 SKDE19;T19_PARVUS_AVD_2015;opphold_id_LNr;Integer;8;;
 SKDE19;T19_PARVUS_AVD_2016;opphold_id_LNr;Integer;8;;
@@ -8105,16 +8105,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;oppholdstype_Navn;String;16;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;oppholdstype_Navn;String;16;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;oppholdstype_Navn;String;16;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;oppholdstype_Navn;String;16;;
-SKDE19;T19_PARVUS_AVD_2014;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_AVD_2015;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_AVD_2016;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_AVD_2017;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_AVD_2018;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_SHO_2014;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_SHO_2015;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_SHO_2016;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_SHO_2017;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
-SKDE19;T19_PARVUS_SHO_2018;pakkeforlop;Integer;4;Pakkeforløp kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_AVD_2014;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_AVD_2015;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_AVD_2016;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_AVD_2017;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_AVD_2018;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_SHO_2014;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_SHO_2015;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_SHO_2016;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_SHO_2017;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
+SKDE19;T19_PARVUS_SHO_2018;pakkeforlop;Integer;4;PakkeforlÃ¸p kreft (NPR-melding);PAKKEFORLOP
 NPR19;M19_AVD1418_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
@@ -8129,16 +8129,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;pakkeforlop;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;pakkeforlop;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2015;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2016;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2017;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_AVD_2018;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2014;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2015;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2016;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2017;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
-SKDE19;T19_PARVUS_SHO_2018;permisjonsdogn;Integer;4;Permisjonsdøgn (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2014;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2015;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2016;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2017;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_AVD_2018;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2014;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2015;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2016;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2017;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
+SKDE19;T19_PARVUS_SHO_2018;permisjonsdogn;Integer;4;PermisjonsdÃ¸gn (NPR-melding);
 SKDE19;T19_REHAB_2014_18;permisjonsdogn;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;permisjonsdogn;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;permisjonsdogn;Integer;8;;
@@ -8155,42 +8155,42 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;permisjonsdogn;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;permisjonsdogn;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;permisjonsdogn;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;permisjonsdogn;Integer;8;;
-SKDE19;T19_EXTRA_AVTSPES_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_EXTRA_AVTSPES_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVD_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVD_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVD_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVD_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVD_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_AVTSPES_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_SHO_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_SHO_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_SHO_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_SHO_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_MAGNUS_SHO_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVD_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVD_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVD_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVD_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVD_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_AVTSPES_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_SHO_2014;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_SHO_2015;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_SHO_2016;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_SHO_2017;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_PARVUS_SHO_2018;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
-SKDE19;T19_REHAB_2014_18;pid;Integer;6;Personentydig løpenummer, numerisk (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_EXTRA_AVTSPES_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVD_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVD_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVD_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVD_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVD_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_AVTSPES_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_SHO_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_SHO_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_SHO_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_SHO_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_MAGNUS_SHO_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVD_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVD_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVD_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVD_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVD_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_AVTSPES_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_SHO_2014;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_SHO_2015;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_SHO_2016;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_SHO_2017;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_PARVUS_SHO_2018;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
+SKDE19;T19_REHAB_2014_18;pid;Integer;6;Personentydig lÃ¸penummer, numerisk (NPR);
 SKDE19;T19_EXTRA_AVTSPES_2014;polIndir;Integer;8;Indirekte aktiviteter (NPR-melding);POLINDIR
 SKDE19;T19_EXTRA_AVTSPES_2015;polIndir;Integer;8;Indirekte aktiviteter (NPR-melding);POLINDIR
 SKDE19;T19_EXTRA_AVTSPES_2016;polIndir;Integer;8;Indirekte aktiviteter (NPR-melding);POLINDIR
@@ -8300,28 +8300,28 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;polIndirekteAktivitet;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;polIndirekteAktivitet;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;polIndirekteAktivitet;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;polIndirekteAktivitet;Integer;8;;
-SKDE19;T19_MAGNUS_AVD_2014;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_AVD_2015;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_AVD_2016;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_AVD_2017;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_AVD_2018;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_SHO_2014;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_SHO_2015;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_SHO_2016;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_SHO_2017;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_MAGNUS_SHO_2018;polUtforende_1;Integer;4;Utførende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_AVD_2014;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_AVD_2015;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_AVD_2016;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_AVD_2017;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_AVD_2018;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_SHO_2014;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_SHO_2015;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_SHO_2016;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_SHO_2017;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_MAGNUS_SHO_2018;polUtforende_1;Integer;4;UtfÃ¸rende helsepersonell 1 (NPK);UTFORENDEHELSEPERSON
 NPR19;M19_DIALYSE1618_UTL_FIL;polUtforende_1;String;1;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;polUtforende_1;String;30;;
-SKDE19;T19_PARVUS_AVD_2014;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2015;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2016;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2017;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2018;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2014;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2015;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2016;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2017;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2018;polUtforende_2;Integer;4;Utførende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2014;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2015;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2016;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2017;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2018;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2014;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2015;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2016;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2017;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2018;polUtforende_2;Integer;4;UtfÃ¸rende helsepersonell 2 (NPK);UTFORENDEHELSEPERSON
 NPR19;M19_DIALYSE1618_UTL_FIL;polUtforende_2;String;1;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;polUtforende_2;String;1;;
 NPR19;M19_DIALYSE1618_UTL_FIL;polUtforende_3;String;1;;
@@ -8461,16 +8461,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;polutforende_2;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;polutforende_2;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;polutforende_2;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;polutforende_2;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2015;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2016;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2017;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2018;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2014;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2015;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2016;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2017;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2018;polutforende_3;Integer;8;Utførende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2014;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2015;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2016;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2017;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2018;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2014;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2015;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2016;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2017;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2018;polutforende_3;Integer;8;UtfÃ¸rende helsepersonell 3 (NPK);UTFORENDEHELSEPERSON
 NPR19;M19_AVD1418_UTLEVERINGSFIL;polutforende_3;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;polutforende_3;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;polutforende_3;Integer;8;;
@@ -9422,16 +9422,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;tell_takst;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;tell_takst;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;tell_takst;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;tell_takst;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_AVD_2015;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_AVD_2016;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_AVD_2017;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_AVD_2018;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_SHO_2014;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_SHO_2015;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_SHO_2016;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_SHO_2017;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
-SKDE19;T19_PARVUS_SHO_2018;tidspunkt_1;Integer;8;Første dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_AVD_2014;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_AVD_2015;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_AVD_2016;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_AVD_2017;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_AVD_2018;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_SHO_2014;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_SHO_2015;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_SHO_2016;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_SHO_2017;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
+SKDE19;T19_PARVUS_SHO_2018;tidspunkt_1;Integer;8;FÃ¸rste dato for utskrivingsklar pasient;EURDFDD
 NPR19;M19_AVD1418_UTLEVERINGSFIL;tidspunkt_1;String;10;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;tidspunkt_1;String;10;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;tidspunkt_1;String;10;;
@@ -10122,16 +10122,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;trimpkt;Integer;8;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;trimpkt;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;trimpkt;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;trimpkt;Integer;8;;
-SKDE19;T19_PARVUS_AVD_2014;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_AVD_2015;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_AVD_2016;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_AVD_2017;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_AVD_2018;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_SHO_2014;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_SHO_2015;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_SHO_2016;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_SHO_2017;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
-SKDE19;T19_PARVUS_SHO_2018;typeTidspunkt_1;Integer;8;Type tidspukt for første dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_AVD_2014;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_AVD_2015;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_AVD_2016;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_AVD_2017;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_AVD_2018;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_SHO_2014;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_SHO_2015;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_SHO_2016;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_SHO_2017;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
+SKDE19;T19_PARVUS_SHO_2018;typeTidspunkt_1;Integer;8;Type tidspukt for fÃ¸rste dato for utskrivingsklar pasient (NPR-melding);TYPETIDSPUNKT
 NPR19;M19_AVD1418_UTLEVERINGSFIL;typeTidspunkt_1;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;typeTidspunkt_1;Integer;8;;
 NPR19;M19_AVD2015_UTLEVERINGSFIL;typeTidspunkt_1;Integer;8;;
@@ -10248,16 +10248,16 @@ NPR19;M19_SHO2017_UTLEVERINGSFIL;typeTidspunkt_5;Integer;8;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;typeTidspunkt_5;Integer;8;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;typeTidspunkt_5;Integer;8;;
 NPR19;M19_PROSEDYREDATO1418_UTL_FIL;typeTiltak;String;1;;
-SKDE19;T19_EXTRA_AVTSPES_2014;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2015;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2016;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2017;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_EXTRA_AVTSPES_2018;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2014;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2015;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2016;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2017;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
-SKDE19;T19_PARVUS_AVTSPES_2018;ulikt_kjonn;Integer;8;Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2014;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2015;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2016;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2017;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_EXTRA_AVTSPES_2018;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2014;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2015;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2016;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2017;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
+SKDE19;T19_PARVUS_AVTSPES_2018;ulikt_kjonn;Integer;8;Ulikt kjÃ¸nn i innrapportert data og i f.nr./D-nr. (SKDE);
 NPR19;M19_DIALYSE1618_UTL_FIL;utDato;String;10;;
 NPR19;M19_LEGEMIDLER1418_UTL_FIL;utDato;String;10;;
 SKDE19;T19_EXTRA_AVTSPES_2014;utDato_org;Integer;8;Utskrivelsesdato innrapportert (NPR-melding);EURDFDD
@@ -10338,16 +10338,16 @@ NPR19;M19_SHO2016_UTLEVERINGSFIL;utdato;String;10;;
 NPR19;M19_SHO2017_UTLEVERINGSFIL;utdato;String;10;;
 NPR19;M19_SHO2018_UTLEVERINGSFIL;utdato;String;10;;
 NPR19;M19_SYKEHUS1418_UTL_FIL;utdato;String;10;;
-SKDE19;T19_PARVUS_AVD_2014;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2015;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2016;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2017;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_AVD_2018;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2014;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2015;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2016;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2017;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
-SKDE19;T19_PARVUS_SHO_2018;utforendeHelseperson;Integer;4;Utførende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2014;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2015;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2016;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2017;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_AVD_2018;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2014;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2015;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2016;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2017;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
+SKDE19;T19_PARVUS_SHO_2018;utforendeHelseperson;Integer;4;UtfÃ¸rende helsepersonell (NPR-melding);UTFORENDEHELSEPERSON
 SKDE19;T19_REHAB_2014_18;utforendeHelseperson;Integer;8;;
 NPR19;M19_AVD1418_UTLEVERINGSFIL;utforendeHelseperson;Integer;8;;
 NPR19;M19_AVD2014_UTLEVERINGSFIL;utforendeHelseperson;Integer;8;;

@@ -1,15 +1,15 @@
 
-# ulikt_kjonn
+# ulikt_kjonn {-}
 
 | | |
 |----|----|
-| Label    | Ulikt kj<f8>nn i innrapportert data og i f.nr./D-nr. (SKDE) |
+| Label    | Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE) |
 | Type     | Integer |
 | Length   | 8    |
 | Format   |  |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 SKDE19.T19_EXTRA_AVTSPES_2014, SKDE19.T19_EXTRA_AVTSPES_2015, SKDE19.T19_EXTRA_AVTSPES_2016, SKDE19.T19_EXTRA_AVTSPES_2017, SKDE19.T19_EXTRA_AVTSPES_2018, SKDE19.T19_PARVUS_AVTSPES_2014, SKDE19.T19_PARVUS_AVTSPES_2015, SKDE19.T19_PARVUS_AVTSPES_2016, SKDE19.T19_PARVUS_AVTSPES_2017, SKDE19.T19_PARVUS_AVTSPES_2018
 

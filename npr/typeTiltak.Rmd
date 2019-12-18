@@ -1,5 +1,5 @@
 
-# typeTiltak
+# typeTiltak {-}
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   |  |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 NPR19.M19_PROSEDYREDATO1418_UTL_FIL
 

@@ -1,5 +1,5 @@
 
-# fag_skde
+# fag_skde {-}
 
 | | |
 |----|----|
@@ -9,7 +9,7 @@
 | Format   | FAG_SKDE |
 | Kilde    |   |
 
-## Finnes i følgende filer
+**Finnes i filene**
 
 SKDE19.T19_MAGNUS_AVTSPES_2014, SKDE19.T19_MAGNUS_AVTSPES_2015, SKDE19.T19_MAGNUS_AVTSPES_2016, SKDE19.T19_MAGNUS_AVTSPES_2017, SKDE19.T19_MAGNUS_AVTSPES_2018
 

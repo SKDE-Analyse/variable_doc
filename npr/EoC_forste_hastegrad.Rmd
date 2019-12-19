@@ -14,3 +14,6 @@
 
 SKDE19.T19_REHAB_2014_18
 
+## Kommentar
+
+Dette variablen ...

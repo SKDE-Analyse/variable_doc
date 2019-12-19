@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | boshhn |
 | Label    | Opptaksområde (sykehus HN) (SKDE) |
 | Type     | Integer |
 | Length   | 4    |

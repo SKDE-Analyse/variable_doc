@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fagomrade |
 | Label    | Fagområde for henvisningen (NPR-melding),  |
 | Type     | String |
 | Length   | 3    |

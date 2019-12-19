@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodt_mnd |
 | Label    | , Fødselsmåned fra personnr - ident-info fra nasjonal fil (NPR) |
 | Type     | Integer, String |
 | Length   | 8, 3, 30    |

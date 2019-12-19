@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodselsar_innrapp |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

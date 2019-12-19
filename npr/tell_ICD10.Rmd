@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tell_ICD10 |
 | Label    | Antall ICD-10-koder innrapportert (NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 2, 30    |

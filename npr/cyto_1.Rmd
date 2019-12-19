@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | cyto_1 |
 | Label    | Cytostatika kode 1 (Oncolex/NPR-melding),  |
 | Type     | String |
 | Length   | 5, 1, 4    |

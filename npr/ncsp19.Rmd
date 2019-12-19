@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp19 |
 | Label    | NCSP kode 19 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

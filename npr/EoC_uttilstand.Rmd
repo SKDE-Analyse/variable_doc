@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_uttilstand |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

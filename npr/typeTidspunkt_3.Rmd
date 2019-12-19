@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | typeTidspunkt_3 |
 | Label    | Type tidspukt for tredje dato for utskrivingsklar pasient (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

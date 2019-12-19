@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_9 |
 | Label    | Gyldighet av NCRP-kode 9 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

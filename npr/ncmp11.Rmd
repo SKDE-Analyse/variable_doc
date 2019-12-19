@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp11 |
 | Label    | NCMP kode 11 (NCMP/NPR-melding/SKDE),  |
 | Type     | String |
 | Length   | 8    |

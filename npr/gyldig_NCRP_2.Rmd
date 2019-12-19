@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_2 |
 | Label    | Gyldighet av NCRP-kode 2 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodselsAar_ident |
 | Label    |  |
 | Type     | Integer |
 | Length   | 3    |

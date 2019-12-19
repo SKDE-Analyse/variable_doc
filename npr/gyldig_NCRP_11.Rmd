@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_11 |
 | Label    | Gyldighet av NCRP-kode 11 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

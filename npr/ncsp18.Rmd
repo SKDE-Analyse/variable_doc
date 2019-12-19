@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp18 |
 | Label    | NCSP kode 18 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

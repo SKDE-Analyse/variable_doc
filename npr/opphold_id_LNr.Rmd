@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | opphold_id_LNr |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

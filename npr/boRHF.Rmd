@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | borhf |
 | Label    | Opptaksområde (RHF) (SKDE) |
 | Type     | Integer |
 | Length   | 4    |

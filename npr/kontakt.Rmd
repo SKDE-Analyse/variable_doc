@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | kontakt |
 | Label    | Kontakttype, f.eks. enkel, spesialist eller lysbehandling (NPR),  |
 | Type     | String |
 | Length   | 1    |

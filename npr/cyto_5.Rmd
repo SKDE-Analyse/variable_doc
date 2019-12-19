@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | cyto_5 |
 | Label    | Cytostatika kode 5 (Oncolex/NPR-melding),  |
 | Type     | String |
 | Length   | 4, 1    |

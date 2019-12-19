@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ATC_1 |
 | Label    | ATC kode 1 (ATC/NPR-melding),  |
 | Type     | String |
 | Length   | 5, 8, 7    |

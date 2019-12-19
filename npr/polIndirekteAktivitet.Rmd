@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | polIndirekteAktivitet |
 | Label    | polIndirekteAktivitet (NPK),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 1, 2    |

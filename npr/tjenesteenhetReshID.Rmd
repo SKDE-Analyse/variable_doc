@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tjenesteenhetReshID |
 | Label    | Tjenesteenhet ReshID (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 7    |

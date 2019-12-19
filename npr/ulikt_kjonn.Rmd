@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ulikt_kjonn |
 | Label    | Ulikt kjønn i innrapportert data og i f.nr./D-nr. (SKDE) |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | niva |
 | Label    | Nivå på episode (NPK),  |
 | Type     | String |
 | Length   | 1    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_Intern_nr |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

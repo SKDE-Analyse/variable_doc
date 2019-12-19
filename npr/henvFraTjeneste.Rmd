@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | henvFraTjeneste |
 | Label    | , Henvist fra tjeneste (NPR-melding) |
 | Type     | Integer, String |
 | Length   | 8, 30    |

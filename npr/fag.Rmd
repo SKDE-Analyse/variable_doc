@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fag |
 | Label    | Fagfelt for avtalespesialisen 2013-2014 (NPR),  |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | frittSykehusvalg |
 | Label    | Fritt sykehusvalg (NPK),  |
 | Type     | Integer, String |
 | Length   | 8, 30    |

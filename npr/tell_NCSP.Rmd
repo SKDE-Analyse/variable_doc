@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tell_NCSP |
 | Label    | Antall NCSP-koder innrapportert (NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 2, 30    |

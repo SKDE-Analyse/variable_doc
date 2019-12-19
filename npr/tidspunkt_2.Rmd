@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tidspunkt_2 |
 | Label    | Andre dato for utskrivingsklar pasient,  |
 | Type     | Integer, String |
 | Length   | 8, 10    |

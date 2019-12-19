@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fraSted_navn |
 | Label    |  |
 | Type     | String |
 | Length   | 65    |

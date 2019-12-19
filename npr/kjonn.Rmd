@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | kjonn |
 | Label    | Kjønn (NPR-melding),  |
 | Type     | Integer |
 | Length   | 4, 8    |

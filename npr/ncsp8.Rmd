@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp8 |
 | Label    | NCSP kode 8 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

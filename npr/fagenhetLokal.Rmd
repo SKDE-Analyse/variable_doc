@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fagenhetLokal |
 | Label    | Fagenhet navn (NPR-melding),  |
 | Type     | String |
 | Length   | 54, 51, 33, 50    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | SpesialistKomHN |
 | Label    | Kommunenummer for avtalespesialistens praksis i Helse Nord (SKDE) |
 | Type     | Integer |
 | Length   | 8    |

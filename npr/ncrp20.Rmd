@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp20 |
 | Label    | NCRP kode 20 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

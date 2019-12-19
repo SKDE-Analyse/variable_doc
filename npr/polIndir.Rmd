@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | polIndir |
 | Label    | Indirekte aktiviteter (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 4, 1, 30    |

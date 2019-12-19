@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | bydel2_num |
 | Label    | Bydel vasket mot Folkeregisteret (NPR), numerisk |
 | Type     | Integer |
 | Length   | 8    |

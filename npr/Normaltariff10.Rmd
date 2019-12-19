@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff10 |
 | Label    | Normaltariff kode 10 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

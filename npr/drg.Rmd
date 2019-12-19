@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | drg |
 | Label    | Diagnoserelatert gruppe (NPK),  |
 | Type     | String |
 | Length   | 4    |

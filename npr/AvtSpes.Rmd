@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | AvtSpes |
 | Label    | Kontakt hos avtalespesialist (SKDE) |
 | Type     | Integer |
 | Length   | 8    |

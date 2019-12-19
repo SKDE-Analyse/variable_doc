@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ant_tidspunkt |
 | Label    | Antall tidspunkt for utskrivningsklar pasient,  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

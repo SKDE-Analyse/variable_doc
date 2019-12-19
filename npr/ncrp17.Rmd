@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp17 |
 | Label    | NCRP kode 17 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | dodDato_DSF_190619 |
 | Label    |  |
 | Type     | String |
 | Length   | 10    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | episodeFag_A |
 | Label    | episodeFag |
 | Type     | String |
 | Length   | 3    |

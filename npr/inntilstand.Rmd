@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | inntilstand |
 | Label    | Tilstand ved ankomst (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 1, 30    |

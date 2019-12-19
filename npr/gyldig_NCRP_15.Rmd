@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_15 |
 | Label    | Gyldighet av NCRP-kode 15 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

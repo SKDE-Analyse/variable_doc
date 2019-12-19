@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodselsar |
 | Label    | Fødselsår fra personnr og innrapportert (NPR),  |
 | Type     | Integer |
 | Length   | 4, 8    |

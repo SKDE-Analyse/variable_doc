@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Tell_normaltariff |
 | Label    | Antall normaltariff-koder innrapportert (NPR) |
 | Type     | Integer |
 | Length   | 8    |

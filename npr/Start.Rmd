@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Start |
 | Label    |  |
 | Type     | String |
 | Length   | 10    |

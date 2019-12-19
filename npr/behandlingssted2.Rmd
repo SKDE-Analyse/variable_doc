@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | behandlingssted2 |
 | Label    | Behandlingssted (NPR),  |
 | Type     | Integer |
 | Length   | 8    |

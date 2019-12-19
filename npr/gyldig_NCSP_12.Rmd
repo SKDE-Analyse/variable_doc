@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCSP_12 |
 | Label    | Gyldighet av NCSP-kode 12 (NCSP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

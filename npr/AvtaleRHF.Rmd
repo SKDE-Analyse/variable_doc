@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | AvtaleRHF |
 | Label    | RHF-et spesialisten har avtale med (NPR) |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Komnr_org |
 | Label    | Innrapportert kommunenummer, numerisk (NPR-melding/SKDE), Backup av komNrHjem2 (SKDE) |
 | Type     | Integer |
 | Length   | 8    |

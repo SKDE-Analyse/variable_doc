@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCSP_14 |
 | Label    | Gyldighet av NCSP-kode 14 (NCSP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

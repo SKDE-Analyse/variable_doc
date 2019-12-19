@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | stedAktivitet |
 | Label    | Sted for aktivitet (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 1, 30    |

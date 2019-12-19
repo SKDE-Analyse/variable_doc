@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp18 |
 | Label    | NCMP kode 18 (NCMP/NPR-melding/SKDE),  |
 | Type     | String |
 | Length   | 8    |

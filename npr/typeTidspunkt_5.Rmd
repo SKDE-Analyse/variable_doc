@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | typeTidspunkt_5 |
 | Label    | Type tidspukt for femte dato for utskrivingsklar pasient (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

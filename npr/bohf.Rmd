@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | bohf |
 | Label    | Opptaksområde (HF) (SKDE) |
 | Type     | Integer |
 | Length   | 4    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | bydel_org |
 | Label    | Bydel, backup av bydel2 (SKDE), numerisk |
 | Type     | Integer |
 | Length   | 8    |

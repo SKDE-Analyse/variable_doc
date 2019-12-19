@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Komplett |
 | Label    | Komplettheten i innrapportert data (NPR),  |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCSP_7 |
 | Label    | Gyldighet av NCSP-kode 7 (NCSP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

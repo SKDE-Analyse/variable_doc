@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp10 |
 | Label    | NCSP kode 10 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

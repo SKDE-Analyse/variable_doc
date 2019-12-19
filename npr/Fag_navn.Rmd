@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Fag_navn |
 | Label    | Fagfelt for avtalespesialisen (NPR),  |
 | Type     | String |
 | Length   | 40    |

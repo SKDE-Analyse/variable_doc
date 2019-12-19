@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | kontaktType |
 | Label    | Kontakttype (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 2, 30    |

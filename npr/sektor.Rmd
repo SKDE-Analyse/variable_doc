@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | sektor |
 | Label    |  |
 | Type     | String |
 | Length   | 3    |

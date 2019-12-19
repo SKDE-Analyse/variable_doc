@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | prosNr |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

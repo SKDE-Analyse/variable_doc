@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_hastegrad |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

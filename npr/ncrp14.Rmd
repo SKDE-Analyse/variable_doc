@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp14 |
 | Label    | NCRP kode 14 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

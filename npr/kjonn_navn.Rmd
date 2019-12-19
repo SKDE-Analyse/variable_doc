@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | kjonn_navn |
 | Label    |  |
 | Type     | String |
 | Length   | 16    |

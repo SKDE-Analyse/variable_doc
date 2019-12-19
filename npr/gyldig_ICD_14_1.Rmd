@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_ICD_14_1 |
 | Label    | Gyldighet av ICD-10-kode 14_1 (ICD-10/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

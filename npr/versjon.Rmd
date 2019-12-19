@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | versjon |
 | Label    | Versjon av NPR-melding (NPR-melding),  |
 | Type     | String |
 | Length   | 6    |

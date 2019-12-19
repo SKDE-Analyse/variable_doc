@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | behandlingsstedKode |
 | Label    | Behandlingssted kode (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 9, 20    |

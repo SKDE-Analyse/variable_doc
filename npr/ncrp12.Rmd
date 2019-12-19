@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp12 |
 | Label    | NCRP kode 12 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | npkOpphold_DRGBasispoeng |
 | Label    | Kostnadsvekt +/- korreksjonsfaktorer (NPK),  |
 | Type     | Integer |
 | Length   | 8    |

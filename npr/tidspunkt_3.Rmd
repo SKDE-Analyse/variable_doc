@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tidspunkt_3 |
 | Label    | Tredje dato for utskrivingsklar pasient,  |
 | Type     | Integer, String |
 | Length   | 8, 10    |

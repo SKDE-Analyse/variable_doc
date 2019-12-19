@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | henvFraTjeneste_navn |
 | Label    |  |
 | Type     | String |
 | Length   | 56    |

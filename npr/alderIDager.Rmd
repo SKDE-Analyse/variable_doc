@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | alderIDager |
 | Label    | Alder i dager per startdato for episoden (barn < 1 år) (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 3    |

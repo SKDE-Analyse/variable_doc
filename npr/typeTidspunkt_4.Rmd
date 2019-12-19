@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | typeTidspunkt_4 |
 | Label    | Type tidspukt for fjerde dato for utskrivingsklar pasient (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 1, 2    |

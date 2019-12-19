@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | kjonn_DSF_190619 |
 | Label    | Kjønn fra f.nr. ved siste kontakt med spes.helsetjenesten,  |
 | Type     | Integer |
 | Length   | 8    |

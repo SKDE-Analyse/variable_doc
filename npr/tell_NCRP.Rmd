@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tell_NCRP |
 | Label    |  |
 | Type     | String |
 | Length   | 1, 2    |

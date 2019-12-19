@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodtAar_DSF_190619 |
 | Label    | Fødselsår fra f.nr. ved siste kontakt med spes.helsetjenesten,  |
 | Type     | Integer |
 | Length   | 8    |

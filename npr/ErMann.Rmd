@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ErMann |
 | Label    | Er mann (kjønn, mann=1) (SKDE) |
 | Type     | Integer |
 | Length   | 3    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_20 |
 | Label    | Gyldighet av NCRP-kode 20 (NCRP/NPR),  |
 | Type     | Integer |
 | Length   | 8    |

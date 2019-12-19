@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tilstand_5_1 |
 | Label    |  |
 | Type     | String |
 | Length   | 6, 5    |

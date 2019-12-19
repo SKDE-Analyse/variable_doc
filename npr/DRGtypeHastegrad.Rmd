@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | DRGtypeHastegrad |
 | Label    | Kombinert DRG-type og hastegrad (SKDE) |
 | Type     | Integer |
 | Length   | 3    |

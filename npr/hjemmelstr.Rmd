@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | hjemmelstr |
 | Label    | Hjemmelstørrelse i prosent (NPR),  |
 | Type     | String |
 | Length   | 4    |

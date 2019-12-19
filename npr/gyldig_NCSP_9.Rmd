@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCSP_9 |
 | Label    | Gyldighet av NCSP-kode 9 (NCSP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

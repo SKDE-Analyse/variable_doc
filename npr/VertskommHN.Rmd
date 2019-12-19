@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | VertskommHN |
 | Label    | Vertskommune (HN) (SKDE) |
 | Type     | Integer |
 | Length   | 8, 4    |

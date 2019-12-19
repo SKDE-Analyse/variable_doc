@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | behSh |
 | Label    | Behandlende sykehus (SKDE) |
 | Type     | Integer |
 | Length   | 4    |

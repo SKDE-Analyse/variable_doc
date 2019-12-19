@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff11 |
 | Label    | Normaltariff kode 11 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

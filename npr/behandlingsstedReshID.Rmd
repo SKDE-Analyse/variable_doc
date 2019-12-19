@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | behandlingsstedReshID |
 | Label    | Behandlingssted ReshID (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 7    |

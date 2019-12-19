@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodtMnd_DSF_190619 |
 | Label    | Fødselsmåned fra f.nr. ved siste kontakt med spes.helsetjenesten,  |
 | Type     | Integer |
 | Length   | 8    |

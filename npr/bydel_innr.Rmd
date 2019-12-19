@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | bydel_innr |
 | Label    | Bydel, innrapportert (SKDE), numerisk |
 | Type     | String |
 | Length   | 2    |

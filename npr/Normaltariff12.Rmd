@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff12 |
 | Label    | Normaltariff kode 12 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

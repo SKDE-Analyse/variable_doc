@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Typebeslutn |
 | Label    | Type beslutn. |
 | Type     | String |
 | Length   | 1    |

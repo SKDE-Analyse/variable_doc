@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | vekt |
 | Label    | DRG-vekt (NPK),  |
 | Type     | Integer, String |
 | Length   | 8, 5, 40    |

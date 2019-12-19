@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | isf_opphold |
 | Label    | ISF-opphold (NPR),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 1, 30    |

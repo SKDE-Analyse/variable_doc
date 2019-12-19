@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tjenesteenhetKode |
 | Label    | Tjenesteenhet kode (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 5, 9    |

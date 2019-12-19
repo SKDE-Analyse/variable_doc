@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff5 |
 | Label    | Normaltariff kode 5 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

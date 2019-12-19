@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | debitor |
 | Label    | Debitor (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 3, 2, 30    |

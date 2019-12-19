@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | institusjonID_original |
 | Label    | Org.nr. til rapporteringsenhet, identifiserer stråleterapienheter (NPR-melding),  |
 | Type     | Integer |
 | Length   | 6, 8    |

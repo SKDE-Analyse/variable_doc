@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp17 |
 | Label    | NCSP kode 17 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

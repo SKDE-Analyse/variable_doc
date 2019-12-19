@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_18 |
 | Label    | Gyldighet av NCRP-kode 18 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

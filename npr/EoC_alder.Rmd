@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_alder |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | npkOpphold_ErTellendeISFOppholdO |
 | Label    | 1=ISF-opphold, 0=Ikke ISF-opphold (NPK),  |
 | Type     | Integer |
 | Length   | 8    |

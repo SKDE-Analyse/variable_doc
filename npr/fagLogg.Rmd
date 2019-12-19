@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fagLogg |
 | Label    | Fagfelt for avtalespesialisen - mangler data (NPR),  |
 | Type     | String |
 | Length   | 1    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | utskrKlarDato2 |
 | Label    | Utskrivningsklar dato - alternativ dato valgt av NPR (NPR),  |
 | Type     | String |
 | Length   | 1    |

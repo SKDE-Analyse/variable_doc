@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Beh_start |
 | Label    | Beh. start |
 | Type     | String |
 | Length   | 10    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | behandlingsstedLokal |
 | Label    | Behandlingssted navn (NPR-melding),  |
 | Type     | String |
 | Length   | 51, 50, 45    |

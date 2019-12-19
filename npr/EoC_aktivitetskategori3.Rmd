@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_aktivitetskategori3 |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

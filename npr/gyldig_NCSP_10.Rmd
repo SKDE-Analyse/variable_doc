@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCSP_10 |
 | Label    | Gyldighet av NCSP-kode 10 (NCSP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | dup_tilstand_4 |
 | Label    |  |
 | Type     | String |
 | Length   | 5    |

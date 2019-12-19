@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | omsorgsniva_org |
 | Label    | Omsorgsnivå (NPR-melding) |
 | Type     | Integer |
 | Length   | 8    |

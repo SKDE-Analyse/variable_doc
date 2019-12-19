@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp19 |
 | Label    | NCRP kode 19 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

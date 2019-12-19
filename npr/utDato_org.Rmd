@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | utDato_org |
 | Label    | Utskrivelsesdato innrapportert (NPR-melding) |
 | Type     | Integer |
 | Length   | 8    |

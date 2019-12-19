@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Tdiag4 |
 | Label    | Diagnose som ikke kan sorteres i H/Bi kode 4 (ICD-10/NPR) |
 | Type     | String |
 | Length   | 8    |

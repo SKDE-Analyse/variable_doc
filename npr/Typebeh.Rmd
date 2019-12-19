@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Typebeh |
 | Label    | Type beh. |
 | Type     | String |
 | Length   | 1    |

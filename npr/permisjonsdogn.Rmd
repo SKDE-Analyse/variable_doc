@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | permisjonsdogn |
 | Label    | Permisjonsdøgn (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 2    |

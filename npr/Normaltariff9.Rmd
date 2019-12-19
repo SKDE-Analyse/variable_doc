@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff9 |
 | Label    | Normaltariff kode 9 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

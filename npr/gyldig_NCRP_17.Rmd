@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_17 |
 | Label    | Gyldighet av NCRP-kode 17 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

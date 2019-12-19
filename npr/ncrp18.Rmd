@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp18 |
 | Label    | NCRP kode 18 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | omsorgsniva |
 | Label    | Omsorgsnivå (SKDE), Omsorgsnivå (NPR-melding),  |
 | Type     | Integer |
 | Length   | 8, 4    |

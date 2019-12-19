@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | BehHF |
 | Label    | Behandlende HF (SKDE) |
 | Type     | Integer |
 | Length   | 4    |

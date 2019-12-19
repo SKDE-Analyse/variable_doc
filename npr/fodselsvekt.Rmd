@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodselsvekt |
 | Label    | Fødselsvekt (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 30    |

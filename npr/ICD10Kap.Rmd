@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ICD10Kap |
 | Label    | ICD-10 kapittel for første kode hovedtilstand (ICD-10/SKDE) |
 | Type     | Integer |
 | Length   | 8    |

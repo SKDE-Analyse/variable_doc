@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp3 |
 | Label    | NCRP kode 3 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

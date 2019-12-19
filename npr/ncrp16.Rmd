@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp16 |
 | Label    | NCRP kode 16 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

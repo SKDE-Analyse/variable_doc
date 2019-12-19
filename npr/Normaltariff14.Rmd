@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff14 |
 | Label    | Normaltariff kode 14 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

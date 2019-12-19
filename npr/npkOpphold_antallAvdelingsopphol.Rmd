@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | npkOpphold_antallAvdelingsopphol |
 | Label    | Antall avdelingsopphold som inngår i det aggregerte "sykehusoppholdet" (NPK),  |
 | Type     | Integer |
 | Length   | 8    |

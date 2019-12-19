@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp5 |
 | Label    | NCMP kode 5 (NCMP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

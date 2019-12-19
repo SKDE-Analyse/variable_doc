@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp4 |
 | Label    | NCMP kode 4 (NCMP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

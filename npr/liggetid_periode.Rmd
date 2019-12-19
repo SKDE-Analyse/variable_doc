@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | liggetid_periode |
 | Label    | Liggetid i utskrivelsesåret (NPR),  |
 | Type     | Integer |
 | Length   | 8    |

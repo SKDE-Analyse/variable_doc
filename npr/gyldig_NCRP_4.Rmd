@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_4 |
 | Label    | Gyldighet av NCRP-kode 4 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

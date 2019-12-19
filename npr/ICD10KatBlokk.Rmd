@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ICD10KatBlokk |
 | Label    | ICD-10 kategoriblokk for første kode hovedtilstand (ICD-10/SKDE) |
 | Type     | Integer |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp13 |
 | Label    | NCSP kode 13 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fagenhetKode |
 | Label    | Fagenhet kode (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 5    |

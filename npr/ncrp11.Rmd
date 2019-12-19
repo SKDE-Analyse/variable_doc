@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp11 |
 | Label    | NCRP kode 11 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

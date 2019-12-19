@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tell_NCMP |
 | Label    | Antall NCMP-koder innrapportert (NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 2, 30    |

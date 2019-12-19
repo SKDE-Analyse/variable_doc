@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | NCRP_2_A |
 | Label    | NCRP_2 |
 | Type     | String |
 | Length   | 6    |

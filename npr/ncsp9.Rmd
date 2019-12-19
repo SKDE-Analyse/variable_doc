@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp9 |
 | Label    | NCSP kode 9 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

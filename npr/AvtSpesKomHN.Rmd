@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | AvtSpesKomHN |
 | Label    | Kontakt med avtalespesialist i HN (SKDE) |
 | Type     | Integer |
 | Length   | 8    |

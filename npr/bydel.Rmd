@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | bydel |
 | Label    | Bydel i Oslo, Bergen, Stavanger og Trondhem vasket mot Folkeregisteret (SKDE),  |
 | Type     | Integer, String |
 | Length   | 6, 2    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | aggrshoppID |
 | Label    |  |
 | Type     | Integer |
 | Length   | 5    |

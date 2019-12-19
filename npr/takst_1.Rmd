@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | takst_1 |
 | Label    |  |
 | Type     | String |
 | Length   | 5, 6, 4    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCMP_20 |
 | Label    | Gyldighet av NCMP-kode 20 (NCMP/NPR),  |
 | Type     | Integer |
 | Length   | 8    |

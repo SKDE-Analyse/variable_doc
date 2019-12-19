@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | emigrertDato |
 | Label    | Emigrert dato - per 19062019 (NPR),  |
 | Type     | Integer |
 | Length   | 4, 8    |

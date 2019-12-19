@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncsp20 |
 | Label    | NCSP kode 20 (NCSP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

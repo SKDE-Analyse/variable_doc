@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | henvFraInstitusjonID |
 | Label    | Henvist fra institusjon (NPK),  |
 | Type     | Integer, String |
 | Length   | 8, 30    |

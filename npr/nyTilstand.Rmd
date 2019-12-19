@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | nyTilstand |
 | Label    | Ny Tilstand (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 8, 30    |

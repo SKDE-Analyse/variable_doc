@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCRP_3 |
 | Label    | Gyldighet av NCRP-kode 3 (NCRP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

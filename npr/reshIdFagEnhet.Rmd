@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | reshIdFagEnhet |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

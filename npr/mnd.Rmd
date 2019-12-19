@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | mnd |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

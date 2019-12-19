@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | npkOpphold_ISFPoeng |
 | Label    | Sum av ISFPoeng for alle Opphold og Særtjenester (NPK),  |
 | Type     | Integer |
 | Length   | 8    |

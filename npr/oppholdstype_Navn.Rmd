@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | oppholdstype_Navn |
 | Label    |  |
 | Type     | String |
 | Length   | 16    |

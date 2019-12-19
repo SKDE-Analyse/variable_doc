@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | g_omsorgsniva_Navn |
 | Label    |  |
 | Type     | String |
 | Length   | 19    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | drg_type |
 | Label    | Type DRG (NPK),  |
 | Type     | String |
 | Length   | 1    |

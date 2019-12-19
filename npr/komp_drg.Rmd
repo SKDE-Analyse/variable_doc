@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | komp_drg |
 | Label    | Kompliserende DRG (NPR),  |
 | Type     | String |
 | Length   | 1    |

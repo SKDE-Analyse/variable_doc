@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCMP_16 |
 | Label    | Gyldighet av NCMP-kode 16 (NCMP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

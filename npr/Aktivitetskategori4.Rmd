@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Aktivitetskategori4 |
 | Label    | Aktivitetskatgori 4-delt (SAMDATA),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

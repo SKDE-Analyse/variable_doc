@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Kliniskbeslutn |
 | Label    | Klinisk beslutn. |
 | Type     | String |
 | Length   | 10    |

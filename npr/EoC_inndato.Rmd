@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | EoC_inndato |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

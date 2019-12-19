@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | polkonAktivitet_Navn_A |
 | Label    | polkonAktivitet_Navn |
 | Type     | String |
 | Length   | 20    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp19 |
 | Label    | NCMP kode 19 (NCMP/NPR-melding/SKDE),  |
 | Type     | String |
 | Length   | 8    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Tdiag5 |
 | Label    | Diagnose som ikke kan sorteres i H/Bi kode 5 (ICD-10/NPR) |
 | Type     | String |
 | Length   | 8    |

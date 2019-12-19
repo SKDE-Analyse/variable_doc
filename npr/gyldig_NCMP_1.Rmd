@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCMP_1 |
 | Label    | Gyldighet av NCMP-kode 1 (NCMP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

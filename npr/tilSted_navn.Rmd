@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tilSted_navn |
 | Label    |  |
 | Type     | String |
 | Length   | 65    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | relatertKontaktID |
 | Label    |  |
 | Type     | Integer |
 | Length   | 6    |

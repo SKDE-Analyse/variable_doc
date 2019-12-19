@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | hf |
 | Label    | Behandlende helseforetak (NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 9, 20    |

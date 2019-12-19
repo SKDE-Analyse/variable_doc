@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | henvType |
 | Label    | Utfall av vurdering av henvisningen (NPR-melding),  |
 | Type     | Integer, String |
 | Length   | 3, 8, 30    |

@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | cyto_4 |
 | Label    | Cytostatika kode 4 (Oncolex/NPR-melding),  |
 | Type     | String |
 | Length   | 4, 1    |

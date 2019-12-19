@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | gyldig_NCMP_12 |
 | Label    | Gyldighet av NCMP-kode 12 (NCMP/NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

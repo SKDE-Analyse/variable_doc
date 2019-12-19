@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncrp4 |
 | Label    | NCRP kode 4 (NCRP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

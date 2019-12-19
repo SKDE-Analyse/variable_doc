@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp14 |
 | Label    | NCMP kode 14 (NCMP/NPR-melding/SKDE),  |
 | Type     | String |
 | Length   | 8    |

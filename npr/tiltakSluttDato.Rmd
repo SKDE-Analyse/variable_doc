@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tiltakSluttDato |
 | Label    |  |
 | Type     | String |
 | Length   | 10    |

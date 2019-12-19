@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | Normaltariff3 |
 | Label    | Normaltariff kode 3 (Normaltariff for avtalespesialister) |
 | Type     | String |
 | Length   | 8    |

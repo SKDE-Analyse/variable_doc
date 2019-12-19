@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | ncmp2 |
 | Label    | NCMP kode 2 (NCMP/NPR-melding/SKDE) |
 | Type     | String |
 | Length   | 8    |

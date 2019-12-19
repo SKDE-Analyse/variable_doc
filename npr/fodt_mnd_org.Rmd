@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | fodt_mnd_org |
 | Label    |  |
 | Type     | Integer |
 | Length   | 8    |

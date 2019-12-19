@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | cyto_2 |
 | Label    | Cytostatika kode 2 (Oncolex/NPR-melding),  |
 | Type     | String |
 | Length   | 4, 1    |

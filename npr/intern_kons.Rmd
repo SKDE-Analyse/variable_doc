@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | intern_kons |
 | Label    | Intern konsultasjon på inneliggende pasient (NPR),  |
 | Type     | Integer, String |
 | Length   | 4, 8, 1, 30    |

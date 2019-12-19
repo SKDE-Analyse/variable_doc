@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | sh_reg |
 | Label    | Sykehusregion - pasientens bosted (NPR),  |
 | Type     | Integer, String |
 | Length   | 8, 1    |

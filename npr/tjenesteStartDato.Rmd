@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tjenesteStartDato |
 | Label    |  |
 | Type     | String |
 | Length   | 10    |

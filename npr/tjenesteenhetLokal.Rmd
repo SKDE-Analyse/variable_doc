@@ -3,6 +3,7 @@
 
 | | |
 |----|----|
+| Navn     | tjenesteenhetLokal |
 | Label    | Tjenesteenhet navn (NPR-melding),  |
 | Type     | String |
 | Length   | 54, 50, 83, 102    |

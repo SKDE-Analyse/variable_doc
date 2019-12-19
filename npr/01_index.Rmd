@@ -1,5 +1,5 @@
 # (PART) NPR {-}
 
-# Introduksjon {-}
+# Norsk pasientregister (NPR) {-}
 
-Dokumentasjon om variabler mottatt av NPR eller utledet av variabler mottatt av NPR.
+Dokumentasjon om variabler mottatt av NPR.

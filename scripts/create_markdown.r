@@ -41,13 +41,16 @@ for (variable in unique(data$var_lowercase)) {
 ", file_list, "
 ")
 
-  filename <- paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd")
-  if (!file.exists(filename)) {
-    file_var <- file(filename)
+  if ("NPR19" %in% only_value$LIBNAME) {
+    folder <- "npr/"
+  } else if ("SKDE19" %in% only_value$LIBNAME) {
+    folder <- "skde/"
   } else {
-    filename <- paste0("npr/", iconv(variable, from = 'UTF-8', to = 'ASCII//TRANSLIT'), ".Rmd")
-    file_var <- file(filename)
+    folder <- "tmp/"
   }
+  filename <- paste0(folder, variable, ".Rmd")
+  file_var <- file(filename)
+
   writeLines(text, file_var)
   close(file_var)
   

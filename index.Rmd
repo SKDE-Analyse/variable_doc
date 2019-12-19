@@ -1,9 +1,9 @@
 ---
-title: "Dokumentasjon variabler NPR"
+title: "Intern dokumentasjon om ulike variabler"
 author: "SKDE"
 date: '`r Sys.Date()`'
 documentclass: book
-description: Diverse dokumentasjon om variabler fra NPR
+description: Diverse dokumentasjon om variabler fra NPR eller andre kilder
 papersize: A4
 site: bookdown::bookdown_site
 favicon: favicon.ico
@@ -11,4 +11,7 @@ favicon: favicon.ico
 
 # {-}
 
-Dette er en samling dokumentasjon om variabler fra NPR.
+Dette er en samling dokumentasjon om variabler fra NPR og andre kilder.
+
+- [SKDE](#skde)
+- [NPR](#npr)

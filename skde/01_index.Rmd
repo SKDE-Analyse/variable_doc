@@ -1,5 +1,8 @@
 # (PART) SKDE {-}
 
-# Senter for klinisk dokumentasjon og evaluering (SKDE) {-}
+# Senter for klinisk dokumentasjon og evaluering (SKDE) {#skde}
 
 Dokumentasjon om variabler utledet av SKDE.
+
+- [SKDE](#skde)
+- [NPR](#npr)

@@ -1,5 +1,8 @@
 # (PART) NPR {-}
 
-# Norsk pasientregister (NPR) {-}
+# Norsk pasientregister (NPR) {#npr}
 
-Dokumentasjon om variabler mottatt av NPR.
+Dokumentasjon om variabler mottatt av NPR. 
+
+- [SKDE](#skde)
+- [NPR](#npr)

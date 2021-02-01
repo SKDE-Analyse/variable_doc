@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>tjenesteSluttTid | Intern dokumentasjon om ulike variabler</title>
+  <meta name="description" content="Diverse dokumentasjon om variabler fra NPR eller andre kilder" />
+  <meta name="generator" content="bookdown 0.21.6 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="tjenesteSluttTid | Intern dokumentasjon om ulike variabler" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Diverse dokumentasjon om variabler fra NPR eller andre kilder" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="tjenesteSluttTid | Intern dokumentasjon om ulike variabler" />
+  
+  <meta name="twitter:description" content="Diverse dokumentasjon om variabler fra NPR eller andre kilder" />
+  
+
+<meta name="author" content="SKDE" />
+
+
+<meta name="date" content="2021-02-01" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="prev" href="tjenestesluttdato.html"/>
+<link rel="next" href="tjenestestartdato.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="index.html#section"></a></li>
+<li class="part"><span><b>I SKDE</b></span></li>
+<li class="chapter" data-level="1" data-path="skde.html"><a href="skde.html"><i class="fa fa-check"></i><b>1</b> Senter for klinisk dokumentasjon og evaluering (SKDE)</a></li>
+<li class="chapter" data-level="" data-path="aggrshoppid.html"><a href="aggrshoppid.html"><i class="fa fa-check"></i>aggrshoppID</a></li>
+<li class="chapter" data-level="" data-path="alder.html"><a href="alder.html"><i class="fa fa-check"></i>Alder</a></li>
+<li class="chapter" data-level="" data-path="avtalerhf.html"><a href="avtalerhf.html"><i class="fa fa-check"></i>AvtaleRHF</a></li>
+<li class="chapter" data-level="" data-path="avtspes.html"><a href="avtspes.html"><i class="fa fa-check"></i>AvtSpes</a></li>
+<li class="chapter" data-level="" data-path="avtspeskomhn.html"><a href="avtspeskomhn.html"><i class="fa fa-check"></i>AvtSpesKomHN</a></li>
+<li class="chapter" data-level="" data-path="bdiag1.html"><a href="bdiag1.html"><i class="fa fa-check"></i>Bdiag1</a><ul>
+<li class="chapter" data-level="1.1" data-path="bdiag1.html"><a href="bdiag1.html#test-av-dokumentasjon"><i class="fa fa-check"></i><b>1.1</b> Test av dokumentasjon</a><ul>
+<li class="chapter" data-level="1.1.1" data-path="bdiag1.html"><a href="bdiag1.html#section-1"><i class="fa fa-check"></i><b>1.1.1</b> 2019</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="bdiag10.html"><a href="bdiag10.html"><i class="fa fa-check"></i>Bdiag10</a></li>
+<li class="chapter" data-level="" data-path="bdiag11.html"><a href="bdiag11.html"><i class="fa fa-check"></i>Bdiag11</a></li>
+<li class="chapter" data-level="" data-path="bdiag12.html"><a href="bdiag12.html"><i class="fa fa-check"></i>Bdiag12</a></li>
+<li class="chapter" data-level="" data-path="bdiag13.html"><a href="bdiag13.html"><i class="fa fa-check"></i>Bdiag13</a></li>
+<li class="chapter" data-level="" data-path="bdiag14.html"><a href="bdiag14.html"><i class="fa fa-check"></i>Bdiag14</a></li>
+<li class="chapter" data-level="" data-path="bdiag15.html"><a href="bdiag15.html"><i class="fa fa-check"></i>Bdiag15</a></li>
+<li class="chapter" data-level="" data-path="bdiag16.html"><a href="bdiag16.html"><i class="fa fa-check"></i>Bdiag16</a></li>
+<li class="chapter" data-level="" data-path="bdiag17.html"><a href="bdiag17.html"><i class="fa fa-check"></i>Bdiag17</a></li>
+<li class="chapter" data-level="" data-path="bdiag18.html"><a href="bdiag18.html"><i class="fa fa-check"></i>Bdiag18</a></li>
+<li class="chapter" data-level="" data-path="bdiag19.html"><a href="bdiag19.html"><i class="fa fa-check"></i>Bdiag19</a></li>
+<li class="chapter" data-level="" data-path="bdiag2.html"><a href="bdiag2.html"><i class="fa fa-check"></i>Bdiag2</a></li>
+<li class="chapter" data-level="" data-path="bdiag3.html"><a href="bdiag3.html"><i class="fa fa-check"></i>Bdiag3</a></li>
+<li class="chapter" data-level="" data-path="bdiag4.html"><a href="bdiag4.html"><i class="fa fa-check"></i>Bdiag4</a></li>
+<li class="chapter" data-level="" data-path="bdiag5.html"><a href="bdiag5.html"><i class="fa fa-check"></i>Bdiag5</a></li>
+<li class="chapter" data-level="" data-path="bdiag6.html"><a href="bdiag6.html"><i class="fa fa-check"></i>Bdiag6</a></li>
+<li class="chapter" data-level="" data-path="bdiag7.html"><a href="bdiag7.html"><i class="fa fa-check"></i>Bdiag7</a></li>
+<li class="chapter" data-level="" data-path="bdiag8.html"><a href="bdiag8.html"><i class="fa fa-check"></i>Bdiag8</a></li>
+<li class="chapter" data-level="" data-path="bdiag9.html"><a href="bdiag9.html"><i class="fa fa-check"></i>Bdiag9</a></li>
+<li class="chapter" data-level="" data-path="behhf.html"><a href="behhf.html"><i class="fa fa-check"></i>BehHF</a></li>
+<li class="chapter" data-level="" data-path="behrhf.html"><a href="behrhf.html"><i class="fa fa-check"></i>BehRHF</a></li>
+<li class="chapter" data-level="" data-path="behsh.html"><a href="behsh.html"><i class="fa fa-check"></i>behSh</a></li>
+<li class="chapter" data-level="" data-path="bohf.html"><a href="bohf.html"><i class="fa fa-check"></i>bohf</a></li>
+<li class="chapter" data-level="" data-path="borhf.html"><a href="borhf.html"><i class="fa fa-check"></i>borhf</a></li>
+<li class="chapter" data-level="" data-path="boshhn.html"><a href="boshhn.html"><i class="fa fa-check"></i>boshhn</a></li>
+<li class="chapter" data-level="" data-path="bydel-innr.html"><a href="bydel-innr.html"><i class="fa fa-check"></i>bydel_innr</a></li>
+<li class="chapter" data-level="" data-path="bydel-org.html"><a href="bydel-org.html"><i class="fa fa-check"></i>bydel_org</a></li>
+<li class="chapter" data-level="" data-path="bydel2-num.html"><a href="bydel2-num.html"><i class="fa fa-check"></i>bydel2_num</a></li>
+<li class="chapter" data-level="" data-path="doddato.html"><a href="doddato.html"><i class="fa fa-check"></i>DodDato</a></li>
+<li class="chapter" data-level="" data-path="drgtypehastegrad.html"><a href="drgtypehastegrad.html"><i class="fa fa-check"></i>DRGtypeHastegrad</a></li>
+<li class="chapter" data-level="" data-path="emigrertdato.html"><a href="emigrertdato.html"><i class="fa fa-check"></i>emigrertDato</a></li>
+<li class="chapter" data-level="" data-path="eoc-aar.html"><a href="eoc-aar.html"><i class="fa fa-check"></i>EoC_aar</a></li>
+<li class="chapter" data-level="" data-path="eoc-aktivitetskategori3.html"><a href="eoc-aktivitetskategori3.html"><i class="fa fa-check"></i>EoC_aktivitetskategori3</a></li>
+<li class="chapter" data-level="" data-path="eoc-alder.html"><a href="eoc-alder.html"><i class="fa fa-check"></i>EoC_alder</a></li>
+<li class="chapter" data-level="" data-path="eoc-antall-i-eoc.html"><a href="eoc-antall-i-eoc.html"><i class="fa fa-check"></i>EoC_Antall_i_EoC</a></li>
+<li class="chapter" data-level="" data-path="eoc-forste-hastegrad.html"><a href="eoc-forste-hastegrad.html"><i class="fa fa-check"></i>EoC_forste_hastegrad</a></li>
+<li class="chapter" data-level="" data-path="eoc-hastegrad.html"><a href="eoc-hastegrad.html"><i class="fa fa-check"></i>EoC_hastegrad</a></li>
+<li class="chapter" data-level="" data-path="eoc-id.html"><a href="eoc-id.html"><i class="fa fa-check"></i>EoC_id</a></li>
+<li class="chapter" data-level="" data-path="eoc-inndato.html"><a href="eoc-inndato.html"><i class="fa fa-check"></i>EoC_inndato</a></li>
+<li class="chapter" data-level="" data-path="eoc-intern-nr.html"><a href="eoc-intern-nr.html"><i class="fa fa-check"></i>EoC_Intern_nr</a></li>
+<li class="chapter" data-level="" data-path="eoc-liggetid.html"><a href="eoc-liggetid.html"><i class="fa fa-check"></i>EoC_liggetid</a></li>
+<li class="chapter" data-level="" data-path="eoc-nr-pid.html"><a href="eoc-nr-pid.html"><i class="fa fa-check"></i>EoC_nr_pid</a></li>
+<li class="chapter" data-level="" data-path="eoc-utdato.html"><a href="eoc-utdato.html"><i class="fa fa-check"></i>EoC_utdato</a></li>
+<li class="chapter" data-level="" data-path="eoc-uttilstand.html"><a href="eoc-uttilstand.html"><i class="fa fa-check"></i>EoC_uttilstand</a></li>
+<li class="chapter" data-level="" data-path="ermann.html"><a href="ermann.html"><i class="fa fa-check"></i>ErMann</a></li>
+<li class="chapter" data-level="" data-path="fag-skde.html"><a href="fag-skde.html"><i class="fa fa-check"></i>Fag_SKDE</a></li>
+<li class="chapter" data-level="" data-path="fodselsaar-ident.html"><a href="fodselsaar-ident.html"><i class="fa fa-check"></i>fodselsAar_ident</a></li>
+<li class="chapter" data-level="" data-path="fodselsar-innrapp.html"><a href="fodselsar-innrapp.html"><i class="fa fa-check"></i>fodselsar_innrapp</a></li>
+<li class="chapter" data-level="" data-path="fodt-mnd-org.html"><a href="fodt-mnd-org.html"><i class="fa fa-check"></i>fodt_mnd_org</a></li>
+<li class="chapter" data-level="" data-path="fylke.html"><a href="fylke.html"><i class="fa fa-check"></i>Fylke</a></li>
+<li class="chapter" data-level="" data-path="hastegrad.html"><a href="hastegrad.html"><i class="fa fa-check"></i>Hastegrad</a></li>
+<li class="chapter" data-level="" data-path="hdiag.html"><a href="hdiag.html"><i class="fa fa-check"></i>Hdiag</a></li>
+<li class="chapter" data-level="" data-path="hdiag2.html"><a href="hdiag2.html"><i class="fa fa-check"></i>Hdiag2</a></li>
+<li class="chapter" data-level="" data-path="hdiag3tegn.html"><a href="hdiag3tegn.html"><i class="fa fa-check"></i>hdiag3tegn</a></li>
+<li class="chapter" data-level="" data-path="i.html"><a href="i.html"><i class="fa fa-check"></i>i</a></li>
+<li class="chapter" data-level="" data-path="icd10kap.html"><a href="icd10kap.html"><i class="fa fa-check"></i>ICD10Kap</a></li>
+<li class="chapter" data-level="" data-path="icd10katblokk.html"><a href="icd10katblokk.html"><i class="fa fa-check"></i>ICD10KatBlokk</a></li>
+<li class="chapter" data-level="" data-path="koblingsid.html"><a href="koblingsid.html"><i class="fa fa-check"></i>KoblingsID</a></li>
+<li class="chapter" data-level="" data-path="komnr-org.html"><a href="komnr-org.html"><i class="fa fa-check"></i>Komnr_org</a></li>
+<li class="chapter" data-level="" data-path="komnr.html"><a href="komnr.html"><i class="fa fa-check"></i>KomNr</a></li>
+<li class="chapter" data-level="" data-path="ncmp1.html"><a href="ncmp1.html"><i class="fa fa-check"></i>ncmp1</a></li>
+<li class="chapter" data-level="" data-path="ncmp10.html"><a href="ncmp10.html"><i class="fa fa-check"></i>ncmp10</a></li>
+<li class="chapter" data-level="" data-path="ncmp11.html"><a href="ncmp11.html"><i class="fa fa-check"></i>ncmp11</a></li>
+<li class="chapter" data-level="" data-path="ncmp12.html"><a href="ncmp12.html"><i class="fa fa-check"></i>ncmp12</a></li>
+<li class="chapter" data-level="" data-path="ncmp13.html"><a href="ncmp13.html"><i class="fa fa-check"></i>ncmp13</a></li>
+<li class="chapter" data-level="" data-path="ncmp14.html"><a href="ncmp14.html"><i class="fa fa-check"></i>ncmp14</a></li>
+<li class="chapter" data-level="" data-path="ncmp15.html"><a href="ncmp15.html"><i class="fa fa-check"></i>ncmp15</a></li>
+<li class="chapter" data-level="" data-path="ncmp16.html"><a href="ncmp16.html"><i class="fa fa-check"></i>ncmp16</a></li>
+<li class="chapter" data-level="" data-path="ncmp17.html"><a href="ncmp17.html"><i class="fa fa-check"></i>ncmp17</a></li>
+<li class="chapter" data-level="" data-path="ncmp18.html"><a href="ncmp18.html"><i class="fa fa-check"></i>ncmp18</a></li>
+<li class="chapter" data-level="" data-path="ncmp19.html"><a href="ncmp19.html"><i class="fa fa-check"></i>ncmp19</a></li>
+<li class="chapter" data-level="" data-path="ncmp2.html"><a href="ncmp2.html"><i class="fa fa-check"></i>ncmp2</a></li>
+<li class="chapter" data-level="" data-path="ncmp20.html"><a href="ncmp20.html"><i class="fa fa-check"></i>ncmp20</a></li>
+<li class="chapter" data-level="" data-path="ncmp3.html"><a href="ncmp3.html"><i class="fa fa-check"></i>ncmp3</a></li>
+<li class="chapter" data-level="" data-path="ncmp4.html"><a href="ncmp4.html"><i class="fa fa-check"></i>ncmp4</a></li>
+<li class="chapter" data-level="" data-path="ncmp5.html"><a href="ncmp5.html"><i class="fa fa-check"></i>ncmp5</a></li>
+<li class="chapter" data-level="" data-path="ncmp6.html"><a href="ncmp6.html"><i class="fa fa-check"></i>ncmp6</a></li>
+<li class="chapter" data-level="" data-path="ncmp7.html"><a href="ncmp7.html"><i class="fa fa-check"></i>ncmp7</a></li>
+<li class="chapter" data-level="" data-path="ncmp8.html"><a href="ncmp8.html"><i class="fa fa-check"></i>ncmp8</a></li>
+<li class="chapter" data-level="" data-path="ncmp9.html"><a href="ncmp9.html"><i class="fa fa-check"></i>ncmp9</a></li>
+<li class="chapter" data-level="" data-path="ncrp1.html"><a href="ncrp1.html"><i class="fa fa-check"></i>ncrp1</a></li>
+<li class="chapter" data-level="" data-path="ncrp10.html"><a href="ncrp10.html"><i class="fa fa-check"></i>ncrp10</a></li>
+<li class="chapter" data-level="" data-path="ncrp11.html"><a href="ncrp11.html"><i class="fa fa-check"></i>ncrp11</a></li>
+<li class="chapter" data-level="" data-path="ncrp12.html"><a href="ncrp12.html"><i class="fa fa-check"></i>ncrp12</a></li>
+<li class="chapter" data-level="" data-path="ncrp13.html"><a href="ncrp13.html"><i class="fa fa-check"></i>ncrp13</a></li>
+<li class="chapter" data-level="" data-path="ncrp14.html"><a href="ncrp14.html"><i class="fa fa-check"></i>ncrp14</a></li>
+<li class="chapter" data-level="" data-path="ncrp15.html"><a href="ncrp15.html"><i class="fa fa-check"></i>ncrp15</a></li>
+<li class="chapter" data-level="" data-path="ncrp16.html"><a href="ncrp16.html"><i class="fa fa-check"></i>ncrp16</a></li>
+<li class="chapter" data-level="" data-path="ncrp17.html"><a href="ncrp17.html"><i class="fa fa-check"></i>ncrp17</a></li>
+<li class="chapter" data-level="" data-path="ncrp18.html"><a href="ncrp18.html"><i class="fa fa-check"></i>ncrp18</a></li>
+<li class="chapter" data-level="" data-path="ncrp19.html"><a href="ncrp19.html"><i class="fa fa-check"></i>ncrp19</a></li>
+<li class="chapter" data-level="" data-path="ncrp2.html"><a href="ncrp2.html"><i class="fa fa-check"></i>ncrp2</a></li>
+<li class="chapter" data-level="" data-path="ncrp20.html"><a href="ncrp20.html"><i class="fa fa-check"></i>ncrp20</a></li>
+<li class="chapter" data-level="" data-path="ncrp3.html"><a href="ncrp3.html"><i class="fa fa-check"></i>ncrp3</a></li>
+<li class="chapter" data-level="" data-path="ncrp4.html"><a href="ncrp4.html"><i class="fa fa-check"></i>ncrp4</a></li>
+<li class="chapter" data-level="" data-path="ncrp5.html"><a href="ncrp5.html"><i class="fa fa-check"></i>ncrp5</a></li>
+<li class="chapter" data-level="" data-path="ncrp6.html"><a href="ncrp6.html"><i class="fa fa-check"></i>ncrp6</a></li>
+<li class="chapter" data-level="" data-path="ncrp7.html"><a href="ncrp7.html"><i class="fa fa-check"></i>ncrp7</a></li>
+<li class="chapter" data-level="" data-path="ncrp8.html"><a href="ncrp8.html"><i class="fa fa-check"></i>ncrp8</a></li>
+<li class="chapter" data-level="" data-path="ncrp9.html"><a href="ncrp9.html"><i class="fa fa-check"></i>ncrp9</a></li>
+<li class="chapter" data-level="" data-path="ncsp1.html"><a href="ncsp1.html"><i class="fa fa-check"></i>ncsp1</a></li>
+<li class="chapter" data-level="" data-path="ncsp10.html"><a href="ncsp10.html"><i class="fa fa-check"></i>ncsp10</a></li>
+<li class="chapter" data-level="" data-path="ncsp11.html"><a href="ncsp11.html"><i class="fa fa-check"></i>ncsp11</a></li>
+<li class="chapter" data-level="" data-path="ncsp12.html"><a href="ncsp12.html"><i class="fa fa-check"></i>ncsp12</a></li>
+<li class="chapter" data-level="" data-path="ncsp13.html"><a href="ncsp13.html"><i class="fa fa-check"></i>ncsp13</a></li>
+<li class="chapter" data-level="" data-path="ncsp14.html"><a href="ncsp14.html"><i class="fa fa-check"></i>ncsp14</a></li>
+<li class="chapter" data-level="" data-path="ncsp15.html"><a href="ncsp15.html"><i class="fa fa-check"></i>ncsp15</a></li>
+<li class="chapter" data-level="" data-path="ncsp16.html"><a href="ncsp16.html"><i class="fa fa-check"></i>ncsp16</a></li>
+<li class="chapter" data-level="" data-path="ncsp17.html"><a href="ncsp17.html"><i class="fa fa-check"></i>ncsp17</a></li>
+<li class="chapter" data-level="" data-path="ncsp18.html"><a href="ncsp18.html"><i class="fa fa-check"></i>ncsp18</a></li>
+<li class="chapter" data-level="" data-path="ncsp19.html"><a href="ncsp19.html"><i class="fa fa-check"></i>ncsp19</a></li>
+<li class="chapter" data-level="" data-path="ncsp2.html"><a href="ncsp2.html"><i class="fa fa-check"></i>ncsp2</a></li>
+<li class="chapter" data-level="" data-path="ncsp20.html"><a href="ncsp20.html"><i class="fa fa-check"></i>ncsp20</a></li>
+<li class="chapter" data-level="" data-path="ncsp3.html"><a href="ncsp3.html"><i class="fa fa-check"></i>ncsp3</a></li>
+<li class="chapter" data-level="" data-path="ncsp4.html"><a href="ncsp4.html"><i class="fa fa-check"></i>ncsp4</a></li>
+<li class="chapter" data-level="" data-path="ncsp5.html"><a href="ncsp5.html"><i class="fa fa-check"></i>ncsp5</a></li>
+<li class="chapter" data-level="" data-path="ncsp6.html"><a href="ncsp6.html"><i class="fa fa-check"></i>ncsp6</a></li>
+<li class="chapter" data-level="" data-path="ncsp7.html"><a href="ncsp7.html"><i class="fa fa-check"></i>ncsp7</a></li>
+<li class="chapter" data-level="" data-path="ncsp8.html"><a href="ncsp8.html"><i class="fa fa-check"></i>ncsp8</a></li>
+<li class="chapter" data-level="" data-path="ncsp9.html"><a href="ncsp9.html"><i class="fa fa-check"></i>ncsp9</a></li>
+<li class="chapter" data-level="" data-path="normaltariff1.html"><a href="normaltariff1.html"><i class="fa fa-check"></i>Normaltariff1</a></li>
+<li class="chapter" data-level="" data-path="normaltariff10.html"><a href="normaltariff10.html"><i class="fa fa-check"></i>Normaltariff10</a></li>
+<li class="chapter" data-level="" data-path="normaltariff11.html"><a href="normaltariff11.html"><i class="fa fa-check"></i>Normaltariff11</a></li>
+<li class="chapter" data-level="" data-path="normaltariff12.html"><a href="normaltariff12.html"><i class="fa fa-check"></i>Normaltariff12</a></li>
+<li class="chapter" data-level="" data-path="normaltariff13.html"><a href="normaltariff13.html"><i class="fa fa-check"></i>Normaltariff13</a></li>
+<li class="chapter" data-level="" data-path="normaltariff14.html"><a href="normaltariff14.html"><i class="fa fa-check"></i>Normaltariff14</a></li>
+<li class="chapter" data-level="" data-path="normaltariff15.html"><a href="normaltariff15.html"><i class="fa fa-check"></i>Normaltariff15</a></li>
+<li class="chapter" data-level="" data-path="normaltariff2.html"><a href="normaltariff2.html"><i class="fa fa-check"></i>Normaltariff2</a></li>
+<li class="chapter" data-level="" data-path="normaltariff3.html"><a href="normaltariff3.html"><i class="fa fa-check"></i>Normaltariff3</a></li>
+<li class="chapter" data-level="" data-path="normaltariff4.html"><a href="normaltariff4.html"><i class="fa fa-check"></i>Normaltariff4</a></li>
+<li class="chapter" data-level="" data-path="normaltariff5.html"><a href="normaltariff5.html"><i class="fa fa-check"></i>Normaltariff5</a></li>
+<li class="chapter" data-level="" data-path="normaltariff6.html"><a href="normaltariff6.html"><i class="fa fa-check"></i>Normaltariff6</a></li>
+<li class="chapter" data-level="" data-path="normaltariff7.html"><a href="normaltariff7.html"><i class="fa fa-check"></i>Normaltariff7</a></li>
+<li class="chapter" data-level="" data-path="normaltariff8.html"><a href="normaltariff8.html"><i class="fa fa-check"></i>Normaltariff8</a></li>
+<li class="chapter" data-level="" data-path="normaltariff9.html"><a href="normaltariff9.html"><i class="fa fa-check"></i>Normaltariff9</a></li>
+<li class="chapter" data-level="" data-path="omsorgsniva-org.html"><a href="omsorgsniva-org.html"><i class="fa fa-check"></i>omsorgsniva_org</a></li>
+<li class="chapter" data-level="" data-path="pid.html"><a href="pid.html"><i class="fa fa-check"></i>PID</a></li>
+<li class="chapter" data-level="" data-path="relatertkontaktid.html"><a href="relatertkontaktid.html"><i class="fa fa-check"></i>relatertKontaktID</a></li>
+<li class="chapter" data-level="" data-path="spesialistkomhn.html"><a href="spesialistkomhn.html"><i class="fa fa-check"></i>SpesialistKomHN</a></li>
+<li class="chapter" data-level="" data-path="tdiag1.html"><a href="tdiag1.html"><i class="fa fa-check"></i>Tdiag1</a></li>
+<li class="chapter" data-level="" data-path="tdiag2.html"><a href="tdiag2.html"><i class="fa fa-check"></i>Tdiag2</a></li>
+<li class="chapter" data-level="" data-path="tdiag3.html"><a href="tdiag3.html"><i class="fa fa-check"></i>Tdiag3</a></li>
+<li class="chapter" data-level="" data-path="tdiag4.html"><a href="tdiag4.html"><i class="fa fa-check"></i>Tdiag4</a></li>
+<li class="chapter" data-level="" data-path="tdiag5.html"><a href="tdiag5.html"><i class="fa fa-check"></i>Tdiag5</a></li>
+<li class="chapter" data-level="" data-path="tell-normaltariff.html"><a href="tell-normaltariff.html"><i class="fa fa-check"></i>Tell_normaltariff</a></li>
+<li class="chapter" data-level="" data-path="ulikt-kjonn.html"><a href="ulikt-kjonn.html"><i class="fa fa-check"></i>ulikt_kjonn</a></li>
+<li class="chapter" data-level="" data-path="utdato-org.html"><a href="utdato-org.html"><i class="fa fa-check"></i>utDato_org</a></li>
+<li class="chapter" data-level="" data-path="vertskommhn.html"><a href="vertskommhn.html"><i class="fa fa-check"></i>VertskommHN</a></li>
+<li class="part"><span><b>II NPR</b></span></li>
+<li class="chapter" data-level="2" data-path="npr.html"><a href="npr.html"><i class="fa fa-check"></i><b>2</b> Norsk pasientregister (NPR)</a></li>
+<li class="chapter" data-level="" data-path="aar.html"><a href="aar.html"><i class="fa fa-check"></i>aar</a></li>
+<li class="chapter" data-level="" data-path="aggrshoppid-lnr.html"><a href="aggrshoppid-lnr.html"><i class="fa fa-check"></i>aggrshoppID_LNr</a></li>
+<li class="chapter" data-level="" data-path="aktivitetskategori.html"><a href="aktivitetskategori.html"><i class="fa fa-check"></i>Aktivitetskategori</a></li>
+<li class="chapter" data-level="" data-path="aktivitetskategori2.html"><a href="aktivitetskategori2.html"><i class="fa fa-check"></i>Aktivitetskategori2</a></li>
+<li class="chapter" data-level="" data-path="aktivitetskategori3.html"><a href="aktivitetskategori3.html"><i class="fa fa-check"></i>Aktivitetskategori3</a></li>
+<li class="chapter" data-level="" data-path="aktivitetskategori4.html"><a href="aktivitetskategori4.html"><i class="fa fa-check"></i>Aktivitetskategori4</a></li>
+<li class="chapter" data-level="" data-path="alderidager.html"><a href="alderidager.html"><i class="fa fa-check"></i>alderIDager</a></li>
+<li class="chapter" data-level="" data-path="ant-tidspunkt.html"><a href="ant-tidspunkt.html"><i class="fa fa-check"></i>ant_tidspunkt</a></li>
+<li class="chapter" data-level="" data-path="atc-1.html"><a href="atc-1.html"><i class="fa fa-check"></i>ATC_1</a></li>
+<li class="chapter" data-level="" data-path="atc-2.html"><a href="atc-2.html"><i class="fa fa-check"></i>ATC_2</a></li>
+<li class="chapter" data-level="" data-path="atc-3.html"><a href="atc-3.html"><i class="fa fa-check"></i>ATC_3</a></li>
+<li class="chapter" data-level="" data-path="atc-4.html"><a href="atc-4.html"><i class="fa fa-check"></i>ATC_4</a></li>
+<li class="chapter" data-level="" data-path="atc-5.html"><a href="atc-5.html"><i class="fa fa-check"></i>ATC_5</a></li>
+<li class="chapter" data-level="" data-path="avslutn-.html"><a href="avslutn-.html"><i class="fa fa-check"></i>Avslutn_</a></li>
+<li class="chapter" data-level="" data-path="beh-start.html"><a href="beh-start.html"><i class="fa fa-check"></i>Beh_start</a></li>
+<li class="chapter" data-level="" data-path="behandlingssted2-navn.html"><a href="behandlingssted2-navn.html"><i class="fa fa-check"></i>behandlingssted2_Navn</a></li>
+<li class="chapter" data-level="" data-path="behandlingssted2.html"><a href="behandlingssted2.html"><i class="fa fa-check"></i>behandlingssted2</a></li>
+<li class="chapter" data-level="" data-path="behandlingsstedkode.html"><a href="behandlingsstedkode.html"><i class="fa fa-check"></i>behandlingsstedKode</a></li>
+<li class="chapter" data-level="" data-path="behandlingsstedlokal.html"><a href="behandlingsstedlokal.html"><i class="fa fa-check"></i>behandlingsstedLokal</a></li>
+<li class="chapter" data-level="" data-path="behandlingsstedreshid.html"><a href="behandlingsstedreshid.html"><i class="fa fa-check"></i>behandlingsstedReshID</a></li>
+<li class="chapter" data-level="" data-path="biopsi.html"><a href="biopsi.html"><i class="fa fa-check"></i>Biopsi</a></li>
+<li class="chapter" data-level="" data-path="bydel-dsf.html"><a href="bydel-dsf.html"><i class="fa fa-check"></i>bydel_DSF</a></li>
+<li class="chapter" data-level="" data-path="bydel.html"><a href="bydel.html"><i class="fa fa-check"></i>bydel</a></li>
+<li class="chapter" data-level="" data-path="bydel2.html"><a href="bydel2.html"><i class="fa fa-check"></i>bydel2</a></li>
+<li class="chapter" data-level="" data-path="cyto-1.html"><a href="cyto-1.html"><i class="fa fa-check"></i>cyto_1</a></li>
+<li class="chapter" data-level="" data-path="cyto-2.html"><a href="cyto-2.html"><i class="fa fa-check"></i>cyto_2</a></li>
+<li class="chapter" data-level="" data-path="cyto-3.html"><a href="cyto-3.html"><i class="fa fa-check"></i>cyto_3</a></li>
+<li class="chapter" data-level="" data-path="cyto-4.html"><a href="cyto-4.html"><i class="fa fa-check"></i>cyto_4</a></li>
+<li class="chapter" data-level="" data-path="cyto-5.html"><a href="cyto-5.html"><i class="fa fa-check"></i>cyto_5</a></li>
+<li class="chapter" data-level="" data-path="dag-kir.html"><a href="dag-kir.html"><i class="fa fa-check"></i>dag_kir</a></li>
+<li class="chapter" data-level="" data-path="debitor.html"><a href="debitor.html"><i class="fa fa-check"></i>debitor</a></li>
+<li class="chapter" data-level="" data-path="doddato-dsf-190619.html"><a href="doddato-dsf-190619.html"><i class="fa fa-check"></i>dodDato_DSF_190619</a></li>
+<li class="chapter" data-level="" data-path="drg-type.html"><a href="drg-type.html"><i class="fa fa-check"></i>drg_type</a></li>
+<li class="chapter" data-level="" data-path="drg.html"><a href="drg.html"><i class="fa fa-check"></i>drg</a></li>
+<li class="chapter" data-level="" data-path="dup-tilstand-1.html"><a href="dup-tilstand-1.html"><i class="fa fa-check"></i>dup_tilstand_1</a></li>
+<li class="chapter" data-level="" data-path="dup-tilstand-2.html"><a href="dup-tilstand-2.html"><i class="fa fa-check"></i>dup_tilstand_2</a></li>
+<li class="chapter" data-level="" data-path="dup-tilstand-3.html"><a href="dup-tilstand-3.html"><i class="fa fa-check"></i>dup_tilstand_3</a></li>
+<li class="chapter" data-level="" data-path="dup-tilstand-4.html"><a href="dup-tilstand-4.html"><i class="fa fa-check"></i>dup_tilstand_4</a></li>
+<li class="chapter" data-level="" data-path="dup-tilstand-5.html"><a href="dup-tilstand-5.html"><i class="fa fa-check"></i>dup_tilstand_5</a></li>
+<li class="chapter" data-level="" data-path="emigrertdato-dsf-190619.html"><a href="emigrertdato-dsf-190619.html"><i class="fa fa-check"></i>emigrertDato_DSF_190619</a></li>
+<li class="chapter" data-level="" data-path="episodefag-a.html"><a href="episodefag-a.html"><i class="fa fa-check"></i>episodeFag_A</a></li>
+<li class="chapter" data-level="" data-path="episodefag-navn-a.html"><a href="episodefag-navn-a.html"><i class="fa fa-check"></i>episodeFag_navn_A</a></li>
+<li class="chapter" data-level="" data-path="episodefag-navn.html"><a href="episodefag-navn.html"><i class="fa fa-check"></i>episodeFag_navn</a></li>
+<li class="chapter" data-level="" data-path="episodefag.html"><a href="episodefag.html"><i class="fa fa-check"></i>Episodefag</a></li>
+<li class="chapter" data-level="" data-path="fag-navn.html"><a href="fag-navn.html"><i class="fa fa-check"></i>Fag_navn</a></li>
+<li class="chapter" data-level="" data-path="fag.html"><a href="fag.html"><i class="fa fa-check"></i>fag</a></li>
+<li class="chapter" data-level="" data-path="fagenhet.html"><a href="fagenhet.html"><i class="fa fa-check"></i>Fagenhet</a></li>
+<li class="chapter" data-level="" data-path="fagenhetkode.html"><a href="fagenhetkode.html"><i class="fa fa-check"></i>fagenhetKode</a></li>
+<li class="chapter" data-level="" data-path="fagenhetlokal.html"><a href="fagenhetlokal.html"><i class="fa fa-check"></i>fagenhetLokal</a></li>
+<li class="chapter" data-level="" data-path="fagenhetreshid.html"><a href="fagenhetreshid.html"><i class="fa fa-check"></i>fagenhetReshID</a></li>
+<li class="chapter" data-level="" data-path="faglogg.html"><a href="faglogg.html"><i class="fa fa-check"></i>fagLogg</a></li>
+<li class="chapter" data-level="" data-path="fagomrade.html"><a href="fagomrade.html"><i class="fa fa-check"></i>fagomrade</a></li>
+<li class="chapter" data-level="" data-path="fodselsar.html"><a href="fodselsar.html"><i class="fa fa-check"></i>fodselsar</a></li>
+<li class="chapter" data-level="" data-path="fodselsvekt.html"><a href="fodselsvekt.html"><i class="fa fa-check"></i>fodselsvekt</a></li>
+<li class="chapter" data-level="" data-path="fodt-mnd.html"><a href="fodt-mnd.html"><i class="fa fa-check"></i>fodt_mnd</a></li>
+<li class="chapter" data-level="" data-path="fodtaar-dsf-190619.html"><a href="fodtaar-dsf-190619.html"><i class="fa fa-check"></i>fodtAar_DSF_190619</a></li>
+<li class="chapter" data-level="" data-path="fodtmnd-dsf-190619.html"><a href="fodtmnd-dsf-190619.html"><i class="fa fa-check"></i>fodtMnd_DSF_190619</a></li>
+<li class="chapter" data-level="" data-path="forløp.html"><a href="forløp.html"><i class="fa fa-check"></i>Forløp</a></li>
+<li class="chapter" data-level="" data-path="frasted-navn.html"><a href="frasted-navn.html"><i class="fa fa-check"></i>fraSted_navn</a></li>
+<li class="chapter" data-level="" data-path="frasted.html"><a href="frasted.html"><i class="fa fa-check"></i>fraSted</a></li>
+<li class="chapter" data-level="" data-path="frittbehandlingsvalg.html"><a href="frittbehandlingsvalg.html"><i class="fa fa-check"></i>frittBehandlingsvalg</a></li>
+<li class="chapter" data-level="" data-path="frittsykehusvalg.html"><a href="frittsykehusvalg.html"><i class="fa fa-check"></i>frittSykehusvalg</a></li>
+<li class="chapter" data-level="" data-path="g-omsorgsniva-navn.html"><a href="g-omsorgsniva-navn.html"><i class="fa fa-check"></i>g_omsorgsniva_Navn</a></li>
+<li class="chapter" data-level="" data-path="g-omsorgsniva.html"><a href="g-omsorgsniva.html"><i class="fa fa-check"></i>g_omsorgsniva</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-1-1.html"><a href="gyldig-icd-1-1.html"><i class="fa fa-check"></i>gyldig_ICD_1_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-1-2.html"><a href="gyldig-icd-1-2.html"><i class="fa fa-check"></i>gyldig_ICD_1_2</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-10-1.html"><a href="gyldig-icd-10-1.html"><i class="fa fa-check"></i>gyldig_ICD_10_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-11-1.html"><a href="gyldig-icd-11-1.html"><i class="fa fa-check"></i>gyldig_ICD_11_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-12-1.html"><a href="gyldig-icd-12-1.html"><i class="fa fa-check"></i>gyldig_ICD_12_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-13-1.html"><a href="gyldig-icd-13-1.html"><i class="fa fa-check"></i>gyldig_ICD_13_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-14-1.html"><a href="gyldig-icd-14-1.html"><i class="fa fa-check"></i>gyldig_ICD_14_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-15-1.html"><a href="gyldig-icd-15-1.html"><i class="fa fa-check"></i>gyldig_ICD_15_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-16-1.html"><a href="gyldig-icd-16-1.html"><i class="fa fa-check"></i>gyldig_ICD_16_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-17-1.html"><a href="gyldig-icd-17-1.html"><i class="fa fa-check"></i>gyldig_ICD_17_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-18-1.html"><a href="gyldig-icd-18-1.html"><i class="fa fa-check"></i>gyldig_ICD_18_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-19-1.html"><a href="gyldig-icd-19-1.html"><i class="fa fa-check"></i>gyldig_ICD_19_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-2-1.html"><a href="gyldig-icd-2-1.html"><i class="fa fa-check"></i>gyldig_ICD_2_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-20-1.html"><a href="gyldig-icd-20-1.html"><i class="fa fa-check"></i>gyldig_ICD_20_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-3-1.html"><a href="gyldig-icd-3-1.html"><i class="fa fa-check"></i>gyldig_ICD_3_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-4-1.html"><a href="gyldig-icd-4-1.html"><i class="fa fa-check"></i>gyldig_ICD_4_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-5-1.html"><a href="gyldig-icd-5-1.html"><i class="fa fa-check"></i>gyldig_ICD_5_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-6-1.html"><a href="gyldig-icd-6-1.html"><i class="fa fa-check"></i>gyldig_ICD_6_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-7-1.html"><a href="gyldig-icd-7-1.html"><i class="fa fa-check"></i>gyldig_ICD_7_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-8-1.html"><a href="gyldig-icd-8-1.html"><i class="fa fa-check"></i>gyldig_ICD_8_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-icd-9-1.html"><a href="gyldig-icd-9-1.html"><i class="fa fa-check"></i>gyldig_ICD_9_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-1.html"><a href="gyldig-ncmp-1.html"><i class="fa fa-check"></i>gyldig_NCMP_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-10.html"><a href="gyldig-ncmp-10.html"><i class="fa fa-check"></i>gyldig_NCMP_10</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-11.html"><a href="gyldig-ncmp-11.html"><i class="fa fa-check"></i>gyldig_NCMP_11</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-12.html"><a href="gyldig-ncmp-12.html"><i class="fa fa-check"></i>gyldig_NCMP_12</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-13.html"><a href="gyldig-ncmp-13.html"><i class="fa fa-check"></i>gyldig_NCMP_13</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-14.html"><a href="gyldig-ncmp-14.html"><i class="fa fa-check"></i>gyldig_NCMP_14</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-15.html"><a href="gyldig-ncmp-15.html"><i class="fa fa-check"></i>gyldig_NCMP_15</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-16.html"><a href="gyldig-ncmp-16.html"><i class="fa fa-check"></i>gyldig_NCMP_16</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-17.html"><a href="gyldig-ncmp-17.html"><i class="fa fa-check"></i>gyldig_NCMP_17</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-18.html"><a href="gyldig-ncmp-18.html"><i class="fa fa-check"></i>gyldig_NCMP_18</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-19.html"><a href="gyldig-ncmp-19.html"><i class="fa fa-check"></i>gyldig_NCMP_19</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-2.html"><a href="gyldig-ncmp-2.html"><i class="fa fa-check"></i>gyldig_NCMP_2</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-20.html"><a href="gyldig-ncmp-20.html"><i class="fa fa-check"></i>gyldig_NCMP_20</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-3.html"><a href="gyldig-ncmp-3.html"><i class="fa fa-check"></i>gyldig_NCMP_3</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-4.html"><a href="gyldig-ncmp-4.html"><i class="fa fa-check"></i>gyldig_NCMP_4</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-5.html"><a href="gyldig-ncmp-5.html"><i class="fa fa-check"></i>gyldig_NCMP_5</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-6.html"><a href="gyldig-ncmp-6.html"><i class="fa fa-check"></i>gyldig_NCMP_6</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-7.html"><a href="gyldig-ncmp-7.html"><i class="fa fa-check"></i>gyldig_NCMP_7</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-8.html"><a href="gyldig-ncmp-8.html"><i class="fa fa-check"></i>gyldig_NCMP_8</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncmp-9.html"><a href="gyldig-ncmp-9.html"><i class="fa fa-check"></i>gyldig_NCMP_9</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-1.html"><a href="gyldig-ncrp-1.html"><i class="fa fa-check"></i>gyldig_NCRP_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-10.html"><a href="gyldig-ncrp-10.html"><i class="fa fa-check"></i>gyldig_NCRP_10</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-11.html"><a href="gyldig-ncrp-11.html"><i class="fa fa-check"></i>gyldig_NCRP_11</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-12.html"><a href="gyldig-ncrp-12.html"><i class="fa fa-check"></i>gyldig_NCRP_12</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-13.html"><a href="gyldig-ncrp-13.html"><i class="fa fa-check"></i>gyldig_NCRP_13</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-14.html"><a href="gyldig-ncrp-14.html"><i class="fa fa-check"></i>gyldig_NCRP_14</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-15.html"><a href="gyldig-ncrp-15.html"><i class="fa fa-check"></i>gyldig_NCRP_15</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-16.html"><a href="gyldig-ncrp-16.html"><i class="fa fa-check"></i>gyldig_NCRP_16</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-17.html"><a href="gyldig-ncrp-17.html"><i class="fa fa-check"></i>gyldig_NCRP_17</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-18.html"><a href="gyldig-ncrp-18.html"><i class="fa fa-check"></i>gyldig_NCRP_18</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-19.html"><a href="gyldig-ncrp-19.html"><i class="fa fa-check"></i>gyldig_NCRP_19</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-2.html"><a href="gyldig-ncrp-2.html"><i class="fa fa-check"></i>gyldig_NCRP_2</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-20.html"><a href="gyldig-ncrp-20.html"><i class="fa fa-check"></i>gyldig_NCRP_20</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-3.html"><a href="gyldig-ncrp-3.html"><i class="fa fa-check"></i>gyldig_NCRP_3</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-4.html"><a href="gyldig-ncrp-4.html"><i class="fa fa-check"></i>gyldig_NCRP_4</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-5.html"><a href="gyldig-ncrp-5.html"><i class="fa fa-check"></i>gyldig_NCRP_5</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-6.html"><a href="gyldig-ncrp-6.html"><i class="fa fa-check"></i>gyldig_NCRP_6</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-7.html"><a href="gyldig-ncrp-7.html"><i class="fa fa-check"></i>gyldig_NCRP_7</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-8.html"><a href="gyldig-ncrp-8.html"><i class="fa fa-check"></i>gyldig_NCRP_8</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncrp-9.html"><a href="gyldig-ncrp-9.html"><i class="fa fa-check"></i>gyldig_NCRP_9</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-1.html"><a href="gyldig-ncsp-1.html"><i class="fa fa-check"></i>gyldig_NCSP_1</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-10.html"><a href="gyldig-ncsp-10.html"><i class="fa fa-check"></i>gyldig_NCSP_10</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-11.html"><a href="gyldig-ncsp-11.html"><i class="fa fa-check"></i>gyldig_NCSP_11</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-12.html"><a href="gyldig-ncsp-12.html"><i class="fa fa-check"></i>gyldig_NCSP_12</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-13.html"><a href="gyldig-ncsp-13.html"><i class="fa fa-check"></i>gyldig_NCSP_13</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-14.html"><a href="gyldig-ncsp-14.html"><i class="fa fa-check"></i>gyldig_NCSP_14</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-15.html"><a href="gyldig-ncsp-15.html"><i class="fa fa-check"></i>gyldig_NCSP_15</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-16.html"><a href="gyldig-ncsp-16.html"><i class="fa fa-check"></i>gyldig_NCSP_16</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-17.html"><a href="gyldig-ncsp-17.html"><i class="fa fa-check"></i>gyldig_NCSP_17</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-18.html"><a href="gyldig-ncsp-18.html"><i class="fa fa-check"></i>gyldig_NCSP_18</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-19.html"><a href="gyldig-ncsp-19.html"><i class="fa fa-check"></i>gyldig_NCSP_19</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-2.html"><a href="gyldig-ncsp-2.html"><i class="fa fa-check"></i>gyldig_NCSP_2</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-20.html"><a href="gyldig-ncsp-20.html"><i class="fa fa-check"></i>gyldig_NCSP_20</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-3.html"><a href="gyldig-ncsp-3.html"><i class="fa fa-check"></i>gyldig_NCSP_3</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-4.html"><a href="gyldig-ncsp-4.html"><i class="fa fa-check"></i>gyldig_NCSP_4</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-5.html"><a href="gyldig-ncsp-5.html"><i class="fa fa-check"></i>gyldig_NCSP_5</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-6.html"><a href="gyldig-ncsp-6.html"><i class="fa fa-check"></i>gyldig_NCSP_6</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-7.html"><a href="gyldig-ncsp-7.html"><i class="fa fa-check"></i>gyldig_NCSP_7</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-8.html"><a href="gyldig-ncsp-8.html"><i class="fa fa-check"></i>gyldig_NCSP_8</a></li>
+<li class="chapter" data-level="" data-path="gyldig-ncsp-9.html"><a href="gyldig-ncsp-9.html"><i class="fa fa-check"></i>gyldig_NCSP_9</a></li>
+<li class="chapter" data-level="" data-path="hdg.html"><a href="hdg.html"><i class="fa fa-check"></i>HDG</a></li>
+<li class="chapter" data-level="" data-path="henvfrainstitusjonid.html"><a href="henvfrainstitusjonid.html"><i class="fa fa-check"></i>henvFraInstitusjonID</a></li>
+<li class="chapter" data-level="" data-path="henvfratjeneste-navn.html"><a href="henvfratjeneste-navn.html"><i class="fa fa-check"></i>henvFraTjeneste_navn</a></li>
+<li class="chapter" data-level="" data-path="henvfratjeneste.html"><a href="henvfratjeneste.html"><i class="fa fa-check"></i>henvFraTjeneste</a></li>
+<li class="chapter" data-level="" data-path="henvtilinstitusjonid.html"><a href="henvtilinstitusjonid.html"><i class="fa fa-check"></i>henvTilInstitusjonID</a></li>
+<li class="chapter" data-level="" data-path="henvtiltjeneste.html"><a href="henvtiltjeneste.html"><i class="fa fa-check"></i>henvTilTjeneste</a></li>
+<li class="chapter" data-level="" data-path="henvtype.html"><a href="henvtype.html"><i class="fa fa-check"></i>henvType</a></li>
+<li class="chapter" data-level="" data-path="hf.html"><a href="hf.html"><i class="fa fa-check"></i>hf</a></li>
+<li class="chapter" data-level="" data-path="hjemmelstr.html"><a href="hjemmelstr.html"><i class="fa fa-check"></i>hjemmelstr</a></li>
+<li class="chapter" data-level="" data-path="inndato.html"><a href="inndato.html"><i class="fa fa-check"></i>innDato</a></li>
+<li class="chapter" data-level="" data-path="innmatehast-navn.html"><a href="innmatehast-navn.html"><i class="fa fa-check"></i>innmateHast_navn</a></li>
+<li class="chapter" data-level="" data-path="innmatehast.html"><a href="innmatehast.html"><i class="fa fa-check"></i>innmateHast</a></li>
+<li class="chapter" data-level="" data-path="inntid.html"><a href="inntid.html"><i class="fa fa-check"></i>InnTid</a></li>
+<li class="chapter" data-level="" data-path="inntilstand.html"><a href="inntilstand.html"><i class="fa fa-check"></i>inntilstand</a></li>
+<li class="chapter" data-level="" data-path="institusjon.html"><a href="institusjon.html"><i class="fa fa-check"></i>Institusjon</a></li>
+<li class="chapter" data-level="" data-path="institusjonid-navn.html"><a href="institusjonid-navn.html"><i class="fa fa-check"></i>institusjonID_Navn</a></li>
+<li class="chapter" data-level="" data-path="institusjonid-original.html"><a href="institusjonid-original.html"><i class="fa fa-check"></i>institusjonID_original</a></li>
+<li class="chapter" data-level="" data-path="institusjonid.html"><a href="institusjonid.html"><i class="fa fa-check"></i>institusjonID</a></li>
+<li class="chapter" data-level="" data-path="intern-kons-navn.html"><a href="intern-kons-navn.html"><i class="fa fa-check"></i>intern_kons_Navn</a></li>
+<li class="chapter" data-level="" data-path="intern-kons.html"><a href="intern-kons.html"><i class="fa fa-check"></i>intern_kons</a></li>
+<li class="chapter" data-level="" data-path="isf-opphold.html"><a href="isf-opphold.html"><i class="fa fa-check"></i>isf_opphold</a></li>
+<li class="chapter" data-level="" data-path="kjonn-dsf-190619.html"><a href="kjonn-dsf-190619.html"><i class="fa fa-check"></i>kjonn_DSF_190619</a></li>
+<li class="chapter" data-level="" data-path="kjonn-navn.html"><a href="kjonn-navn.html"><i class="fa fa-check"></i>kjonn_navn</a></li>
+<li class="chapter" data-level="" data-path="kjonn.html"><a href="kjonn.html"><i class="fa fa-check"></i>kjonn</a></li>
+<li class="chapter" data-level="" data-path="kliniskbeslutn.html"><a href="kliniskbeslutn.html"><i class="fa fa-check"></i>Kliniskbeslutn</a></li>
+<li class="chapter" data-level="" data-path="kodenr.html"><a href="kodenr.html"><i class="fa fa-check"></i>kodeNr</a></li>
+<li class="chapter" data-level="" data-path="kodeverk.html"><a href="kodeverk.html"><i class="fa fa-check"></i>Kodeverk</a></li>
+<li class="chapter" data-level="" data-path="kodeversjon.html"><a href="kodeversjon.html"><i class="fa fa-check"></i>kodeVersjon</a></li>
+<li class="chapter" data-level="" data-path="komnrhjem-dsf.html"><a href="komnrhjem-dsf.html"><i class="fa fa-check"></i>komNrHjem_DSF</a></li>
+<li class="chapter" data-level="" data-path="komnrhjem-navn.html"><a href="komnrhjem-navn.html"><i class="fa fa-check"></i>komnrhjem_navn</a></li>
+<li class="chapter" data-level="" data-path="komnrhjem.html"><a href="komnrhjem.html"><i class="fa fa-check"></i>komNrHjem</a></li>
+<li class="chapter" data-level="" data-path="komnrhjem2-navn.html"><a href="komnrhjem2-navn.html"><i class="fa fa-check"></i>komNrHjem2_navn</a></li>
+<li class="chapter" data-level="" data-path="komnrhjem2.html"><a href="komnrhjem2.html"><i class="fa fa-check"></i>komNrHjem2</a></li>
+<li class="chapter" data-level="" data-path="komp-drg.html"><a href="komp-drg.html"><i class="fa fa-check"></i>komp_drg</a></li>
+<li class="chapter" data-level="" data-path="komplett.html"><a href="komplett.html"><i class="fa fa-check"></i>Komplett</a></li>
+<li class="chapter" data-level="" data-path="kontakt-navn.html"><a href="kontakt-navn.html"><i class="fa fa-check"></i>kontakt_navn</a></li>
+<li class="chapter" data-level="" data-path="kontakt.html"><a href="kontakt.html"><i class="fa fa-check"></i>kontakt</a></li>
+<li class="chapter" data-level="" data-path="kontakttype-navn.html"><a href="kontakttype-navn.html"><i class="fa fa-check"></i>kontaktType_Navn</a></li>
+<li class="chapter" data-level="" data-path="kontakttype.html"><a href="kontakttype.html"><i class="fa fa-check"></i>kontaktType</a></li>
+<li class="chapter" data-level="" data-path="korrvekt.html"><a href="korrvekt.html"><i class="fa fa-check"></i>korrvekt</a></li>
+<li class="chapter" data-level="" data-path="liggetid-periode.html"><a href="liggetid-periode.html"><i class="fa fa-check"></i>liggetid_periode</a></li>
+<li class="chapter" data-level="" data-path="liggetid.html"><a href="liggetid.html"><i class="fa fa-check"></i>liggetid</a></li>
+<li class="chapter" data-level="" data-path="lnr.html"><a href="lnr.html"><i class="fa fa-check"></i>LNr</a></li>
+<li class="chapter" data-level="" data-path="mnd.html"><a href="mnd.html"><i class="fa fa-check"></i>mnd</a></li>
+<li class="chapter" data-level="" data-path="ncmp-1.html"><a href="ncmp-1.html"><i class="fa fa-check"></i>NCMP_1</a></li>
+<li class="chapter" data-level="" data-path="ncmp-10.html"><a href="ncmp-10.html"><i class="fa fa-check"></i>NCMP_10</a></li>
+<li class="chapter" data-level="" data-path="ncmp-11.html"><a href="ncmp-11.html"><i class="fa fa-check"></i>NCMP_11</a></li>
+<li class="chapter" data-level="" data-path="ncmp-12.html"><a href="ncmp-12.html"><i class="fa fa-check"></i>NCMP_12</a></li>
+<li class="chapter" data-level="" data-path="ncmp-13.html"><a href="ncmp-13.html"><i class="fa fa-check"></i>NCMP_13</a></li>
+<li class="chapter" data-level="" data-path="ncmp-14.html"><a href="ncmp-14.html"><i class="fa fa-check"></i>NCMP_14</a></li>
+<li class="chapter" data-level="" data-path="ncmp-15.html"><a href="ncmp-15.html"><i class="fa fa-check"></i>NCMP_15</a></li>
+<li class="chapter" data-level="" data-path="ncmp-16.html"><a href="ncmp-16.html"><i class="fa fa-check"></i>NCMP_16</a></li>
+<li class="chapter" data-level="" data-path="ncmp-17.html"><a href="ncmp-17.html"><i class="fa fa-check"></i>NCMP_17</a></li>
+<li class="chapter" data-level="" data-path="ncmp-18.html"><a href="ncmp-18.html"><i class="fa fa-check"></i>NCMP_18</a></li>
+<li class="chapter" data-level="" data-path="ncmp-19.html"><a href="ncmp-19.html"><i class="fa fa-check"></i>NCMP_19</a></li>
+<li class="chapter" data-level="" data-path="ncmp-2.html"><a href="ncmp-2.html"><i class="fa fa-check"></i>NCMP_2</a></li>
+<li class="chapter" data-level="" data-path="ncmp-20.html"><a href="ncmp-20.html"><i class="fa fa-check"></i>NCMP_20</a></li>
+<li class="chapter" data-level="" data-path="ncmp-3.html"><a href="ncmp-3.html"><i class="fa fa-check"></i>NCMP_3</a></li>
+<li class="chapter" data-level="" data-path="ncmp-4.html"><a href="ncmp-4.html"><i class="fa fa-check"></i>NCMP_4</a></li>
+<li class="chapter" data-level="" data-path="ncmp-5.html"><a href="ncmp-5.html"><i class="fa fa-check"></i>NCMP_5</a></li>
+<li class="chapter" data-level="" data-path="ncmp-6.html"><a href="ncmp-6.html"><i class="fa fa-check"></i>NCMP_6</a></li>
+<li class="chapter" data-level="" data-path="ncmp-7.html"><a href="ncmp-7.html"><i class="fa fa-check"></i>NCMP_7</a></li>
+<li class="chapter" data-level="" data-path="ncmp-8.html"><a href="ncmp-8.html"><i class="fa fa-check"></i>NCMP_8</a></li>
+<li class="chapter" data-level="" data-path="ncmp-9.html"><a href="ncmp-9.html"><i class="fa fa-check"></i>NCMP_9</a></li>
+<li class="chapter" data-level="" data-path="ncrp-1-a.html"><a href="ncrp-1-a.html"><i class="fa fa-check"></i>NCRP_1_A</a></li>
+<li class="chapter" data-level="" data-path="ncrp-1.html"><a href="ncrp-1.html"><i class="fa fa-check"></i>NCRP_1</a></li>
+<li class="chapter" data-level="" data-path="ncrp-10.html"><a href="ncrp-10.html"><i class="fa fa-check"></i>NCRP_10</a></li>
+<li class="chapter" data-level="" data-path="ncrp-11.html"><a href="ncrp-11.html"><i class="fa fa-check"></i>NCRP_11</a></li>
+<li class="chapter" data-level="" data-path="ncrp-12.html"><a href="ncrp-12.html"><i class="fa fa-check"></i>NCRP_12</a></li>
+<li class="chapter" data-level="" data-path="ncrp-13.html"><a href="ncrp-13.html"><i class="fa fa-check"></i>NCRP_13</a></li>
+<li class="chapter" data-level="" data-path="ncrp-14.html"><a href="ncrp-14.html"><i class="fa fa-check"></i>NCRP_14</a></li>
+<li class="chapter" data-level="" data-path="ncrp-15.html"><a href="ncrp-15.html"><i class="fa fa-check"></i>NCRP_15</a></li>
+<li class="chapter" data-level="" data-path="ncrp-16.html"><a href="ncrp-16.html"><i class="fa fa-check"></i>NCRP_16</a></li>
+<li class="chapter" data-level="" data-path="ncrp-17.html"><a href="ncrp-17.html"><i class="fa fa-check"></i>NCRP_17</a></li>
+<li class="chapter" data-level="" data-path="ncrp-18.html"><a href="ncrp-18.html"><i class="fa fa-check"></i>NCRP_18</a></li>
+<li class="chapter" data-level="" data-path="ncrp-19.html"><a href="ncrp-19.html"><i class="fa fa-check"></i>NCRP_19</a></li>
+<li class="chapter" data-level="" data-path="ncrp-2-a.html"><a href="ncrp-2-a.html"><i class="fa fa-check"></i>NCRP_2_A</a></li>
+<li class="chapter" data-level="" data-path="ncrp-2.html"><a href="ncrp-2.html"><i class="fa fa-check"></i>NCRP_2</a></li>
+<li class="chapter" data-level="" data-path="ncrp-20.html"><a href="ncrp-20.html"><i class="fa fa-check"></i>NCRP_20</a></li>
+<li class="chapter" data-level="" data-path="ncrp-3-a.html"><a href="ncrp-3-a.html"><i class="fa fa-check"></i>NCRP_3_A</a></li>
+<li class="chapter" data-level="" data-path="ncrp-3.html"><a href="ncrp-3.html"><i class="fa fa-check"></i>NCRP_3</a></li>
+<li class="chapter" data-level="" data-path="ncrp-4.html"><a href="ncrp-4.html"><i class="fa fa-check"></i>NCRP_4</a></li>
+<li class="chapter" data-level="" data-path="ncrp-5.html"><a href="ncrp-5.html"><i class="fa fa-check"></i>NCRP_5</a></li>
+<li class="chapter" data-level="" data-path="ncrp-6.html"><a href="ncrp-6.html"><i class="fa fa-check"></i>NCRP_6</a></li>
+<li class="chapter" data-level="" data-path="ncrp-7.html"><a href="ncrp-7.html"><i class="fa fa-check"></i>NCRP_7</a></li>
+<li class="chapter" data-level="" data-path="ncrp-8.html"><a href="ncrp-8.html"><i class="fa fa-check"></i>NCRP_8</a></li>
+<li class="chapter" data-level="" data-path="ncrp-9.html"><a href="ncrp-9.html"><i class="fa fa-check"></i>NCRP_9</a></li>
+<li class="chapter" data-level="" data-path="ncsp-1.html"><a href="ncsp-1.html"><i class="fa fa-check"></i>NCSP_1</a></li>
+<li class="chapter" data-level="" data-path="ncsp-10.html"><a href="ncsp-10.html"><i class="fa fa-check"></i>NCSP_10</a></li>
+<li class="chapter" data-level="" data-path="ncsp-11.html"><a href="ncsp-11.html"><i class="fa fa-check"></i>NCSP_11</a></li>
+<li class="chapter" data-level="" data-path="ncsp-12.html"><a href="ncsp-12.html"><i class="fa fa-check"></i>NCSP_12</a></li>
+<li class="chapter" data-level="" data-path="ncsp-13.html"><a href="ncsp-13.html"><i class="fa fa-check"></i>NCSP_13</a></li>
+<li class="chapter" data-level="" data-path="ncsp-14.html"><a href="ncsp-14.html"><i class="fa fa-check"></i>NCSP_14</a></li>
+<li class="chapter" data-level="" data-path="ncsp-15.html"><a href="ncsp-15.html"><i class="fa fa-check"></i>NCSP_15</a></li>
+<li class="chapter" data-level="" data-path="ncsp-16.html"><a href="ncsp-16.html"><i class="fa fa-check"></i>NCSP_16</a></li>
+<li class="chapter" data-level="" data-path="ncsp-17.html"><a href="ncsp-17.html"><i class="fa fa-check"></i>NCSP_17</a></li>
+<li class="chapter" data-level="" data-path="ncsp-18.html"><a href="ncsp-18.html"><i class="fa fa-check"></i>NCSP_18</a></li>
+<li class="chapter" data-level="" data-path="ncsp-19.html"><a href="ncsp-19.html"><i class="fa fa-check"></i>NCSP_19</a></li>
+<li class="chapter" data-level="" data-path="ncsp-2.html"><a href="ncsp-2.html"><i class="fa fa-check"></i>NCSP_2</a></li>
+<li class="chapter" data-level="" data-path="ncsp-20.html"><a href="ncsp-20.html"><i class="fa fa-check"></i>NCSP_20</a></li>
+<li class="chapter" data-level="" data-path="ncsp-3.html"><a href="ncsp-3.html"><i class="fa fa-check"></i>NCSP_3</a></li>
+<li class="chapter" data-level="" data-path="ncsp-4.html"><a href="ncsp-4.html"><i class="fa fa-check"></i>NCSP_4</a></li>
+<li class="chapter" data-level="" data-path="ncsp-5.html"><a href="ncsp-5.html"><i class="fa fa-check"></i>NCSP_5</a></li>
+<li class="chapter" data-level="" data-path="ncsp-6.html"><a href="ncsp-6.html"><i class="fa fa-check"></i>NCSP_6</a></li>
+<li class="chapter" data-level="" data-path="ncsp-7.html"><a href="ncsp-7.html"><i class="fa fa-check"></i>NCSP_7</a></li>
+<li class="chapter" data-level="" data-path="ncsp-8.html"><a href="ncsp-8.html"><i class="fa fa-check"></i>NCSP_8</a></li>
+<li class="chapter" data-level="" data-path="ncsp-9.html"><a href="ncsp-9.html"><i class="fa fa-check"></i>NCSP_9</a></li>
+<li class="chapter" data-level="" data-path="niva.html"><a href="niva.html"><i class="fa fa-check"></i>niva</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-antallavdelingsopphol.html"><a href="npkopphold-antallavdelingsopphol.html"><i class="fa fa-check"></i>npkOpphold_antallAvdelingsopphol</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-antallkontakter.html"><a href="npkopphold-antallkontakter.html"><i class="fa fa-check"></i>npkOpphold_antallKontakter</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-drgbasispoeng.html"><a href="npkopphold-drgbasispoeng.html"><i class="fa fa-check"></i>npkOpphold_DRGBasispoeng</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-ertellendeisfoppholdo.html"><a href="npkopphold-ertellendeisfoppholdo.html"><i class="fa fa-check"></i>npkOpphold_ErTellendeISFOppholdO</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-isfpoeng.html"><a href="npkopphold-isfpoeng.html"><i class="fa fa-check"></i>npkOpphold_ISFPoeng</a></li>
+<li class="chapter" data-level="" data-path="npkopphold-poengsum.html"><a href="npkopphold-poengsum.html"><i class="fa fa-check"></i>npkOpphold_PoengSum</a></li>
+<li class="chapter" data-level="" data-path="npkresultat-oppholdid.html"><a href="npkresultat-oppholdid.html"><i class="fa fa-check"></i>NPKResultat_oppholdID</a></li>
+<li class="chapter" data-level="" data-path="nprid-reg.html"><a href="nprid-reg.html"><i class="fa fa-check"></i>NPRId_reg</a></li>
+<li class="chapter" data-level="" data-path="nytilstand.html"><a href="nytilstand.html"><i class="fa fa-check"></i>nyTilstand</a></li>
+<li class="chapter" data-level="" data-path="omsorgsniva-navn.html"><a href="omsorgsniva-navn.html"><i class="fa fa-check"></i>omsorgsniva_Navn</a></li>
+<li class="chapter" data-level="" data-path="omsorgsniva.html"><a href="omsorgsniva.html"><i class="fa fa-check"></i>omsorgsniva</a></li>
+<li class="chapter" data-level="" data-path="opphold-id-lnr.html"><a href="opphold-id-lnr.html"><i class="fa fa-check"></i>opphold_id_LNr</a></li>
+<li class="chapter" data-level="" data-path="oppholdstype-navn.html"><a href="oppholdstype-navn.html"><i class="fa fa-check"></i>oppholdstype_Navn</a></li>
+<li class="chapter" data-level="" data-path="oppholdstype.html"><a href="oppholdstype.html"><i class="fa fa-check"></i>oppholdstype</a></li>
+<li class="chapter" data-level="" data-path="pakkeforløp.html"><a href="pakkeforløp.html"><i class="fa fa-check"></i>Pakkeforløp</a></li>
+<li class="chapter" data-level="" data-path="permisjonsdogn.html"><a href="permisjonsdogn.html"><i class="fa fa-check"></i>permisjonsdogn</a></li>
+<li class="chapter" data-level="" data-path="polindir-navn.html"><a href="polindir-navn.html"><i class="fa fa-check"></i>polIndir_Navn</a></li>
+<li class="chapter" data-level="" data-path="polindir.html"><a href="polindir.html"><i class="fa fa-check"></i>polIndir</a></li>
+<li class="chapter" data-level="" data-path="polindirekteaktivitet.html"><a href="polindirekteaktivitet.html"><i class="fa fa-check"></i>polIndirekteAktivitet</a></li>
+<li class="chapter" data-level="" data-path="polkonaktivitet-navn-a.html"><a href="polkonaktivitet-navn-a.html"><i class="fa fa-check"></i>polkonAktivitet_Navn_A</a></li>
+<li class="chapter" data-level="" data-path="polkonaktivitet-navn.html"><a href="polkonaktivitet-navn.html"><i class="fa fa-check"></i>polkonAktivitet_Navn</a></li>
+<li class="chapter" data-level="" data-path="polkonaktivitet.html"><a href="polkonaktivitet.html"><i class="fa fa-check"></i>polkonAktivitet</a></li>
+<li class="chapter" data-level="" data-path="polutforende-1.html"><a href="polutforende-1.html"><i class="fa fa-check"></i>polUtforende_1</a></li>
+<li class="chapter" data-level="" data-path="polutforende-2.html"><a href="polutforende-2.html"><i class="fa fa-check"></i>polUtforende_2</a></li>
+<li class="chapter" data-level="" data-path="polutforende-3.html"><a href="polutforende-3.html"><i class="fa fa-check"></i>polUtforende_3</a></li>
+<li class="chapter" data-level="" data-path="pros.html"><a href="pros.html"><i class="fa fa-check"></i>pros</a></li>
+<li class="chapter" data-level="" data-path="prosnr.html"><a href="prosnr.html"><i class="fa fa-check"></i>prosNr</a></li>
+<li class="chapter" data-level="" data-path="rehabtype.html"><a href="rehabtype.html"><i class="fa fa-check"></i>RehabType</a></li>
+<li class="chapter" data-level="" data-path="relatertkontaktid-lnr.html"><a href="relatertkontaktid-lnr.html"><i class="fa fa-check"></i>relatertkontaktID_LNr</a></li>
+<li class="chapter" data-level="" data-path="reshidfagenhet.html"><a href="reshidfagenhet.html"><i class="fa fa-check"></i>reshIdFagEnhet</a></li>
+<li class="chapter" data-level="" data-path="secondopinion.html"><a href="secondopinion.html"><i class="fa fa-check"></i>secondOpinion</a></li>
+<li class="chapter" data-level="" data-path="sektor.html"><a href="sektor.html"><i class="fa fa-check"></i>sektor</a></li>
+<li class="chapter" data-level="" data-path="sh-reg-navn.html"><a href="sh-reg-navn.html"><i class="fa fa-check"></i>sh_reg_navn</a></li>
+<li class="chapter" data-level="" data-path="sh-reg.html"><a href="sh-reg.html"><i class="fa fa-check"></i>sh_reg</a></li>
+<li class="chapter" data-level="" data-path="spes-drg.html"><a href="spes-drg.html"><i class="fa fa-check"></i>spes_drg</a></li>
+<li class="chapter" data-level="" data-path="start.html"><a href="start.html"><i class="fa fa-check"></i>Start</a></li>
+<li class="chapter" data-level="" data-path="stedaktivitet-navn.html"><a href="stedaktivitet-navn.html"><i class="fa fa-check"></i>stedAktivitet_Navn</a></li>
+<li class="chapter" data-level="" data-path="stedaktivitet.html"><a href="stedaktivitet.html"><i class="fa fa-check"></i>stedAktivitet</a></li>
+<li class="chapter" data-level="" data-path="takst-1.html"><a href="takst-1.html"><i class="fa fa-check"></i>takst_1</a></li>
+<li class="chapter" data-level="" data-path="takst-10.html"><a href="takst-10.html"><i class="fa fa-check"></i>takst_10</a></li>
+<li class="chapter" data-level="" data-path="takst-11.html"><a href="takst-11.html"><i class="fa fa-check"></i>takst_11</a></li>
+<li class="chapter" data-level="" data-path="takst-12.html"><a href="takst-12.html"><i class="fa fa-check"></i>takst_12</a></li>
+<li class="chapter" data-level="" data-path="takst-13.html"><a href="takst-13.html"><i class="fa fa-check"></i>takst_13</a></li>
+<li class="chapter" data-level="" data-path="takst-14.html"><a href="takst-14.html"><i class="fa fa-check"></i>takst_14</a></li>
+<li class="chapter" data-level="" data-path="takst-15.html"><a href="takst-15.html"><i class="fa fa-check"></i>takst_15</a></li>
+<li class="chapter" data-level="" data-path="takst-2.html"><a href="takst-2.html"><i class="fa fa-check"></i>takst_2</a></li>
+<li class="chapter" data-level="" data-path="takst-3.html"><a href="takst-3.html"><i class="fa fa-check"></i>takst_3</a></li>
+<li class="chapter" data-level="" data-path="takst-4.html"><a href="takst-4.html"><i class="fa fa-check"></i>takst_4</a></li>
+<li class="chapter" data-level="" data-path="takst-5.html"><a href="takst-5.html"><i class="fa fa-check"></i>takst_5</a></li>
+<li class="chapter" data-level="" data-path="takst-6.html"><a href="takst-6.html"><i class="fa fa-check"></i>takst_6</a></li>
+<li class="chapter" data-level="" data-path="takst-7.html"><a href="takst-7.html"><i class="fa fa-check"></i>takst_7</a></li>
+<li class="chapter" data-level="" data-path="takst-8.html"><a href="takst-8.html"><i class="fa fa-check"></i>takst_8</a></li>
+<li class="chapter" data-level="" data-path="takst-9.html"><a href="takst-9.html"><i class="fa fa-check"></i>takst_9</a></li>
+<li class="chapter" data-level="" data-path="tell-atc.html"><a href="tell-atc.html"><i class="fa fa-check"></i>tell_ATC</a></li>
+<li class="chapter" data-level="" data-path="tell-cyto.html"><a href="tell-cyto.html"><i class="fa fa-check"></i>tell_cyto</a></li>
+<li class="chapter" data-level="" data-path="tell-icd10.html"><a href="tell-icd10.html"><i class="fa fa-check"></i>tell_ICD10</a></li>
+<li class="chapter" data-level="" data-path="tell-ncmp.html"><a href="tell-ncmp.html"><i class="fa fa-check"></i>tell_NCMP</a></li>
+<li class="chapter" data-level="" data-path="tell-ncrp.html"><a href="tell-ncrp.html"><i class="fa fa-check"></i>tell_NCRP</a></li>
+<li class="chapter" data-level="" data-path="tell-ncsp.html"><a href="tell-ncsp.html"><i class="fa fa-check"></i>tell_NCSP</a></li>
+<li class="chapter" data-level="" data-path="tell-takst.html"><a href="tell-takst.html"><i class="fa fa-check"></i>tell_takst</a></li>
+<li class="chapter" data-level="" data-path="tidspunkt-1.html"><a href="tidspunkt-1.html"><i class="fa fa-check"></i>tidspunkt_1</a></li>
+<li class="chapter" data-level="" data-path="tidspunkt-2.html"><a href="tidspunkt-2.html"><i class="fa fa-check"></i>tidspunkt_2</a></li>
+<li class="chapter" data-level="" data-path="tidspunkt-3.html"><a href="tidspunkt-3.html"><i class="fa fa-check"></i>tidspunkt_3</a></li>
+<li class="chapter" data-level="" data-path="tidspunkt-4.html"><a href="tidspunkt-4.html"><i class="fa fa-check"></i>tidspunkt_4</a></li>
+<li class="chapter" data-level="" data-path="tidspunkt-5.html"><a href="tidspunkt-5.html"><i class="fa fa-check"></i>tidspunkt_5</a></li>
+<li class="chapter" data-level="" data-path="tilstand-1-1.html"><a href="tilstand-1-1.html"><i class="fa fa-check"></i>tilstand_1_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-1-2.html"><a href="tilstand-1-2.html"><i class="fa fa-check"></i>tilstand_1_2</a></li>
+<li class="chapter" data-level="" data-path="tilstand-10-1.html"><a href="tilstand-10-1.html"><i class="fa fa-check"></i>tilstand_10_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-11-1.html"><a href="tilstand-11-1.html"><i class="fa fa-check"></i>tilstand_11_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-12-1.html"><a href="tilstand-12-1.html"><i class="fa fa-check"></i>tilstand_12_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-13-1.html"><a href="tilstand-13-1.html"><i class="fa fa-check"></i>tilstand_13_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-14-1.html"><a href="tilstand-14-1.html"><i class="fa fa-check"></i>tilstand_14_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-15-1.html"><a href="tilstand-15-1.html"><i class="fa fa-check"></i>tilstand_15_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-16-1.html"><a href="tilstand-16-1.html"><i class="fa fa-check"></i>tilstand_16_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-17-1.html"><a href="tilstand-17-1.html"><i class="fa fa-check"></i>tilstand_17_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-18-1.html"><a href="tilstand-18-1.html"><i class="fa fa-check"></i>tilstand_18_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-19-1.html"><a href="tilstand-19-1.html"><i class="fa fa-check"></i>tilstand_19_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-2-1.html"><a href="tilstand-2-1.html"><i class="fa fa-check"></i>tilstand_2_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-20-1.html"><a href="tilstand-20-1.html"><i class="fa fa-check"></i>tilstand_20_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-3-1.html"><a href="tilstand-3-1.html"><i class="fa fa-check"></i>tilstand_3_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-4-1.html"><a href="tilstand-4-1.html"><i class="fa fa-check"></i>tilstand_4_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-5-1.html"><a href="tilstand-5-1.html"><i class="fa fa-check"></i>tilstand_5_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-6-1.html"><a href="tilstand-6-1.html"><i class="fa fa-check"></i>tilstand_6_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-7-1.html"><a href="tilstand-7-1.html"><i class="fa fa-check"></i>tilstand_7_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-8-1.html"><a href="tilstand-8-1.html"><i class="fa fa-check"></i>tilstand_8_1</a></li>
+<li class="chapter" data-level="" data-path="tilstand-9-1.html"><a href="tilstand-9-1.html"><i class="fa fa-check"></i>tilstand_9_1</a></li>
+<li class="chapter" data-level="" data-path="tilsted-navn.html"><a href="tilsted-navn.html"><i class="fa fa-check"></i>tilSted_navn</a></li>
+<li class="chapter" data-level="" data-path="tilsted.html"><a href="tilsted.html"><i class="fa fa-check"></i>tilSted</a></li>
+<li class="chapter" data-level="" data-path="tiltaksluttdato.html"><a href="tiltaksluttdato.html"><i class="fa fa-check"></i>tiltakSluttDato</a></li>
+<li class="chapter" data-level="" data-path="tiltakslutttid.html"><a href="tiltakslutttid.html"><i class="fa fa-check"></i>tiltakSluttTid</a></li>
+<li class="chapter" data-level="" data-path="tiltakstartdato.html"><a href="tiltakstartdato.html"><i class="fa fa-check"></i>tiltakStartDato</a></li>
+<li class="chapter" data-level="" data-path="tiltakstarttid.html"><a href="tiltakstarttid.html"><i class="fa fa-check"></i>tiltakStartTid</a></li>
+<li class="chapter" data-level="" data-path="tjenesteenhetkode.html"><a href="tjenesteenhetkode.html"><i class="fa fa-check"></i>tjenesteenhetKode</a></li>
+<li class="chapter" data-level="" data-path="tjenesteenhetlokal.html"><a href="tjenesteenhetlokal.html"><i class="fa fa-check"></i>tjenesteenhetLokal</a></li>
+<li class="chapter" data-level="" data-path="tjenesteenhetreshid.html"><a href="tjenesteenhetreshid.html"><i class="fa fa-check"></i>tjenesteenhetReshID</a></li>
+<li class="chapter" data-level="" data-path="tjenestesluttdato.html"><a href="tjenestesluttdato.html"><i class="fa fa-check"></i>tjenesteSluttDato</a></li>
+<li class="chapter" data-level="" data-path="tjenesteslutttid.html"><a href="tjenesteslutttid.html"><i class="fa fa-check"></i>tjenesteSluttTid</a></li>
+<li class="chapter" data-level="" data-path="tjenestestartdato.html"><a href="tjenestestartdato.html"><i class="fa fa-check"></i>tjenesteStartDato</a></li>
+<li class="chapter" data-level="" data-path="tjenestestarttid.html"><a href="tjenestestarttid.html"><i class="fa fa-check"></i>tjenesteStartTid</a></li>
+<li class="chapter" data-level="" data-path="trimpkt.html"><a href="trimpkt.html"><i class="fa fa-check"></i>trimpkt</a></li>
+<li class="chapter" data-level="" data-path="typebeh.html"><a href="typebeh.html"><i class="fa fa-check"></i>Typebeh</a></li>
+<li class="chapter" data-level="" data-path="typebeslutn.html"><a href="typebeslutn.html"><i class="fa fa-check"></i>Typebeslutn</a></li>
+<li class="chapter" data-level="" data-path="typetidspunkt-1.html"><a href="typetidspunkt-1.html"><i class="fa fa-check"></i>typeTidspunkt_1</a></li>
+<li class="chapter" data-level="" data-path="typetidspunkt-2.html"><a href="typetidspunkt-2.html"><i class="fa fa-check"></i>typeTidspunkt_2</a></li>
+<li class="chapter" data-level="" data-path="typetidspunkt-3.html"><a href="typetidspunkt-3.html"><i class="fa fa-check"></i>typeTidspunkt_3</a></li>
+<li class="chapter" data-level="" data-path="typetidspunkt-4.html"><a href="typetidspunkt-4.html"><i class="fa fa-check"></i>typeTidspunkt_4</a></li>
+<li class="chapter" data-level="" data-path="typetidspunkt-5.html"><a href="typetidspunkt-5.html"><i class="fa fa-check"></i>typeTidspunkt_5</a></li>
+<li class="chapter" data-level="" data-path="typetiltak.html"><a href="typetiltak.html"><i class="fa fa-check"></i>typeTiltak</a></li>
+<li class="chapter" data-level="" data-path="utdato.html"><a href="utdato.html"><i class="fa fa-check"></i>utDato</a></li>
+<li class="chapter" data-level="" data-path="utforendehelseperson-navn.html"><a href="utforendehelseperson-navn.html"><i class="fa fa-check"></i>utforendeHelseperson_Navn</a></li>
+<li class="chapter" data-level="" data-path="utforendehelseperson.html"><a href="utforendehelseperson.html"><i class="fa fa-check"></i>utforendeHelseperson</a></li>
+<li class="chapter" data-level="" data-path="utr-start.html"><a href="utr-start.html"><i class="fa fa-check"></i>Utr_start</a></li>
+<li class="chapter" data-level="" data-path="utskrklardato.html"><a href="utskrklardato.html"><i class="fa fa-check"></i>UtskrKlarDato</a></li>
+<li class="chapter" data-level="" data-path="utskrklardato2.html"><a href="utskrklardato2.html"><i class="fa fa-check"></i>utskrKlarDato2</a></li>
+<li class="chapter" data-level="" data-path="uttid.html"><a href="uttid.html"><i class="fa fa-check"></i>UtTid</a></li>
+<li class="chapter" data-level="" data-path="uttilstand.html"><a href="uttilstand.html"><i class="fa fa-check"></i>utTilstand</a></li>
+<li class="chapter" data-level="" data-path="vekt.html"><a href="vekt.html"><i class="fa fa-check"></i>vekt</a></li>
+<li class="chapter" data-level="" data-path="versjon.html"><a href="versjon.html"><i class="fa fa-check"></i>versjon</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Intern dokumentasjon om ulike variabler</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="tjenesteslutttid" class="section level1 unnumbered">
+<h1>tjenesteSluttTid</h1>
+<table>
+<tbody>
+<tr class="odd">
+<td>Navn</td>
+<td>tjenesteSluttTid</td>
+</tr>
+<tr class="even">
+<td>Label</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Type</td>
+<td>String</td>
+</tr>
+<tr class="even">
+<td>Length</td>
+<td>16</td>
+</tr>
+<tr class="odd">
+<td>Format</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Kilde</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Finnes i filene</strong></p>
+<p>NPR19.M19_PROSEDYREDATO1418_UTL_FIL</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="tjenestesluttdato.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="tjenestestartdato.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/SKDE-Analyse/variable_doc/edit/master/02_npr/tjenesteSluttTid.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["variable_doc.pdf", "variable_doc.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
